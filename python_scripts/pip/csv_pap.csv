@@ -1,0 +1,1001 @@
+org,role,view,activity,context,proba,decision
+partner,normal,luxe,a1,peak,0.73,denied
+DZ VBM,l YDB,VSI,GA51,VWHX,0.39,permitted
+HV YSX,h QOW,BFN,HH70,USJP,0.81,permitted
+CV GEZ,w MPS,ASD,UC20,NNOF,0.66,permitted
+FP BGU,v KKD,WOF,QT79,SNDO,0.78,permitted
+AC VNJ,b ZKM,LAD,SC35,COZJ,0.53,denied
+RT WEC,z ZRP,IIG,JD75,HEVT,0.59,permitted
+DJ NDQ,u FHB,TSV,AT52,QVYJ,0.26,permitted
+GC YYA,t TQS,WDO,WF21,YYTE,0.43,permitted
+KC SGW,q EDG,INZ,NW51,FLHU,0.54,denied
+GS WIK,u SSO,IVU,CL46,AATR,0.39,permitted
+CN VCK,c AYW,FGA,IA81,YIQT,0.62,permitted
+RK ZET,z NFE,PIN,HA49,KVIK,0.75,denied
+UV YNG,h KGK,LHW,MH89,XVSH,0.87,denied
+MB IVH,k XFP,CRQ,OK89,LGDK,0.8,permitted
+AJ LSZ,q HCF,PWR,HT35,IHZX,0.66,denied
+ZC YDW,n GSZ,ZVR,OA31,UBTW,0.27,permitted
+NO VDC,x NIC,ZGX,WI15,JHLW,0.92,permitted
+partner,vip,luxe,a2,peak,0.21,permitted
+VZ HVN,f VDQ,ICQ,NG99,GQTQ,0.14,permitted
+caraccess,vip,luxe,a2,off,0.82,permitted
+DV PJD,s DKV,WON,PZ24,XZQS,0.18,permitted
+partner,blacklisted,normal,a1,off,0.39,denied
+partner,vip,normal,a3,peak,0.43,permitted
+UY XBJ,p EDR,MAO,EB24,YEZG,0.39,denied
+caraccess,normal,normal,a1,peak,0.84,permitted
+KZ VSF,n SMU,XAD,JM36,FDGS,0.98,permitted
+HV ZWM,k SLK,ZQJ,JA39,PYBG,1.0,permitted
+ZC WYA,v UNK,BQH,IJ50,HAJH,0.38,permitted
+IM UKZ,u PVQ,FRH,RR23,KRHH,0.53,permitted
+ZJ OWD,z ZBY,THU,LK26,PUUV,0.02,permitted
+VS YDM,y TNQ,XWW,KS67,GIXA,0.71,permitted
+caraccess,normal,normal,a2,off,0.24,permitted
+DX TGW,s NTR,PVL,IV01,RBIG,0.08,permitted
+HU SXT,e ZXF,BGV,AD79,GOHU,0.43,denied
+caraccess,normal,luxe,a3,peak,0.91,denied
+WH LNR,m HIT,FXJ,RT59,ELZO,0.01,permitted
+MZ LUJ,l QOR,FOS,AZ24,WZMM,0.78,permitted
+MO ZLZ,k OUX,UWW,GO40,KKCN,0.42,permitted
+others,vip,luxe,a3,off,0.1,denied
+RM RSU,l JVT,MLQ,ET52,QOLG,0.14,permitted
+others,blacklisted,luxe,a1,peak,0.01,denied
+NS LGW,w DGX,SEC,ZM37,OYAB,0.65,permitted
+HZ WJO,y NLP,ADD,VC59,KNEG,0.56,permitted
+NM GXG,n GRM,TXA,CP54,YDID,0.22,permitted
+DZ VSH,a DZC,TWK,RO82,TYMJ,0.84,permitted
+BI DQY,y IFC,HXJ,MG95,VCET,0.83,permitted
+VK RFW,d GZT,YXC,IN87,WOPD,0.72,permitted
+caraccess,normal,normal,a1,off,0.12,permitted
+VI VUN,x BLB,PYW,HX25,FSQZ,0.06,permitted
+WF QAX,h GHX,TVZ,JT25,NVNE,0.72,permitted
+HM AIU,c KJI,LMA,QL71,FKSO,0.22,permitted
+caraccess,normal,normal,a3,peak,0.8,permitted
+GU LXM,y HDV,PKT,IC38,TAGC,0.27,permitted
+others,normal,luxe,a3,peak,0.64,permitted
+OT CPO,s GHK,ZVU,LA54,FZLA,0.72,permitted
+YU XJV,a CRG,NNN,CD69,XPXT,0.26,permitted
+FC PHB,l QLI,GIG,PM30,DEAP,0.41,denied
+HS SGY,v ZSK,OCJ,HE76,IZMK,0.12,denied
+ED LEE,c LCP,TNV,TE36,ZSPH,0.01,permitted
+caraccess,vip,normal,a1,peak,0.68,permitted
+FC BOP,k EWQ,NYI,TE04,JYTH,0.85,permitted
+GK WBU,x UPR,TDD,UI70,IGDN,0.08,permitted
+WE DBO,i DMG,MJX,TW13,NXFI,0.35,denied
+IQ FBG,z IDI,CHR,YD56,KTPX,0.83,denied
+HL LME,w WYE,DTE,XX61,SAAE,0.48,permitted
+police,blacklisted,luxe,a2,off,0.45,denied
+EQ LXO,w OUX,WGX,MU75,ULTG,0.09,denied
+CW AZT,y AVD,GVH,HO38,HKDO,0.22,permitted
+DV WYY,j HZP,UVW,EL77,EXPJ,0.26,permitted
+QR RUY,h ALX,GOJ,EJ98,ZXME,0.97,permitted
+ZO ATT,u WHE,DSG,UZ72,ZPXE,0.86,permitted
+IN VRM,h JGX,XQY,SG00,VXTR,0.6,permitted
+GF PJY,i RFU,CNF,QN77,YCDZ,0.51,permitted
+OO ULB,p WOY,XTO,JZ64,HDEB,0.73,permitted
+CK AYL,j FLR,GUM,ON73,OTRG,0.91,permitted
+XW OQC,d MYY,VJH,KU62,MABC,0.39,permitted
+QQ GEE,h CYE,PKV,HC07,YREW,0.36,permitted
+FP EPH,t VAX,LBB,JN86,SFDL,0.2,permitted
+ZM KEI,r NZU,TXG,LI36,GEPP,0.09,denied
+UV FBG,d TCJ,OBE,IH15,EPUH,0.93,denied
+XE BBE,p VDG,PQK,TK59,OFOL,0.96,permitted
+GY HOR,g WDA,TLV,RD21,DQPR,0.8,permitted
+police,vip,normal,a3,off,0.76,permitted
+LC WOV,d LUJ,AFG,JR58,NUVO,0.88,permitted
+KQ TOS,o RCL,POY,JL29,ETLU,0.93,permitted
+VH IOZ,h CSS,BVC,NY02,GSPL,0.85,permitted
+IX SMP,p VJR,BHC,VC28,WRGX,0.21,permitted
+WF SDV,r HNE,PGY,HD18,IZSX,0.52,permitted
+VC FQU,w JTB,QYG,PF83,ZGFI,0.52,denied
+LJ GFU,g RXT,MSK,NA78,EVAX,0.48,permitted
+JW ZFA,g HQW,DUU,RL63,POUR,0.5,permitted
+TD OHW,s RNL,CAE,GC10,CIWN,0.44,permitted
+ZV LKD,f JNG,YTJ,SB00,AUGP,0.07,permitted
+EA PJQ,e XFN,NTS,QC76,JULI,0.25,permitted
+JA PXW,i HAA,MLM,BR60,CFML,0.84,permitted
+OB BIU,n LOL,VBE,NF66,MTGZ,0.55,denied
+caraccess,vip,normal,a2,off,0.64,permitted
+others,normal,normal,a1,off,0.74,denied
+WP HQR,b IVN,NPE,QX46,VSVR,0.49,permitted
+MB AAQ,b JGT,TDU,AM88,LLFF,0.35,permitted
+LX WNU,f IGR,LLQ,IF38,GIRS,0.35,permitted
+WE GZC,p BEY,OTO,GS83,CIWU,0.78,permitted
+KO QLM,w YMI,ANB,ZX14,XWKV,0.65,permitted
+QG NFN,c FHD,MNU,LP43,CIZU,0.49,permitted
+partner,vip,luxe,a1,peak,0.38,permitted
+NA AIA,b JQQ,RJR,HU46,NUGA,0.27,denied
+ST XWD,p IIU,FNN,FK69,VEOY,0.06,permitted
+FE WAE,p NBS,BXU,NY02,UCCY,0.09,permitted
+ZQ PBU,t IEO,ZOA,US19,FQGA,0.5,permitted
+partner,vip,normal,a2,peak,0.72,permitted
+others,normal,luxe,a2,peak,0.45,permitted
+CD MRG,d WMF,HWV,KX81,LNXN,0.77,permitted
+CD KHF,f WUJ,DZT,GE79,HHDM,0.87,permitted
+SZ LIR,f ORU,YBP,WO36,ZHIE,0.91,permitted
+MP WNT,h OEY,VOC,WI26,VIOG,0.14,permitted
+XZ FST,y DBZ,FYV,ZD01,LESK,0.21,permitted
+partner,normal,normal,a2,off,0.63,permitted
+HQ AGV,b AIA,SCA,HT09,EECL,0.78,permitted
+ZV VBB,m IIL,MRS,UJ29,OFEP,0.09,denied
+GH JLG,l YWQ,XJE,DB51,CPFS,0.92,permitted
+RT IGS,d WQK,PMO,XY75,PQSV,0.41,permitted
+HW SAA,y ZDH,DMI,ZG77,SXVF,0.05,permitted
+ZN UCY,u CUQ,BBE,UW42,FDPR,0.55,permitted
+SR KOP,z KWO,OOL,MQ60,DACL,0.22,permitted
+DN WVX,e HEA,LLU,YW19,EMVC,0.75,permitted
+XC FOH,x JFL,SOB,YW08,XHTI,0.44,permitted
+caraccess,normal,normal,a3,off,0.57,denied
+WH ZUP,l YUD,JTX,XI35,BUUL,0.66,permitted
+SX SHU,h ULS,SOB,LL19,MGNZ,0.35,permitted
+others,vip,normal,a3,peak,0.65,permitted
+GU AAZ,r RBV,SIJ,XP27,MZCX,0.2,permitted
+caraccess,normal,normal,a2,peak,0.97,permitted
+OC VLC,v DSE,WBF,EB69,PBCO,0.69,permitted
+PG HJS,d CWG,XTD,YE23,XLRS,0.91,permitted
+partner,normal,normal,a1,off,0.21,permitted
+OQ ADM,u SUG,NOS,EN46,IPTO,0.45,denied
+II UYC,c SYX,EMN,RS78,MFLD,0.51,permitted
+SA NDG,p LWO,CRR,AJ12,NXIF,0.92,permitted
+ZM RJV,v GSV,DPU,TP40,NSPF,0.53,permitted
+NF YAC,q IUJ,WXM,XA38,AVXG,0.12,permitted
+PC NHX,w RMO,WXZ,LS25,VNCP,0.57,permitted
+TG TUQ,l URS,TMM,HM11,JCDB,0.2,permitted
+JE TPY,v DCL,QLN,ZX14,ENAJ,0.67,permitted
+RJ NZG,w JEY,PCA,VE89,WXDP,0.9,permitted
+XV BOD,j FNH,LKR,NZ22,BQTX,0.82,denied
+IJ HUR,q AVP,ALH,RM14,HAQJ,0.32,denied
+XA MVU,m REG,DGV,EH84,RRWS,0.3,permitted
+LX LYX,u XDJ,OVD,RW66,OKAV,0.72,permitted
+police,normal,luxe,a1,peak,0.9,permitted
+JP JAN,b RFM,ZFS,LG45,LSBK,0.97,permitted
+EX ZMI,a VUS,FFC,AV47,QCBY,0.43,permitted
+PM NQN,q MVX,EBE,NA69,JAGP,0.66,permitted
+DS QGW,j LSZ,ZXE,HK98,OEFH,0.61,permitted
+TQ CWD,o LHH,VQM,ZA49,JOGX,0.45,permitted
+LF FNZ,t YEZ,UYN,TE61,SMDL,0.38,permitted
+HQ ZXZ,v GGE,SVI,DZ10,FDDC,0.47,permitted
+VQ ZEA,z IYH,WEE,FL03,UOIH,0.24,permitted
+EV QDG,s FOI,CBH,GB38,PSKA,0.08,permitted
+FC BZE,v JFK,ZUX,LT86,WLXZ,0.21,permitted
+KS CAU,g TVG,EWL,KM07,OORS,0.57,denied
+EU NDP,g USJ,HTE,MG69,YWOS,0.99,permitted
+DW DKT,o NEV,TVM,WO46,UXWD,0.12,denied
+BX BEH,x EYR,BQF,LM96,WWXF,0.04,permitted
+caraccess,blacklisted,luxe,a3,peak,0.19,denied
+IJ EPF,t BYW,FCJ,GF52,ELFU,0.79,denied
+UM PDN,w FIU,LPX,SS29,MMOS,0.71,permitted
+TC RAE,y TEH,WLI,OJ28,ZUJX,0.71,permitted
+XE LOD,b DIB,GEB,UG37,HYWT,0.76,permitted
+OK DHS,o BYA,QGB,ZS59,VPNQ,0.1,permitted
+YD IXH,b VNR,XYW,YV09,RPWV,0.14,permitted
+DF NTG,t CPA,BYK,OG24,SXGQ,0.2,permitted
+XL PPV,m FEF,XBV,XK87,NCME,0.96,permitted
+ZC SUT,h PSL,EFB,AU69,UFLE,0.8,denied
+HA UKA,x EOT,ASP,IY80,OYNF,0.33,denied
+QZ SJJ,h FJL,ETX,HN98,XBNL,0.65,permitted
+NM VYM,v WUW,RVT,AN90,QYBM,0.26,permitted
+partner,vip,normal,a1,off,0.29,permitted
+JW VQX,d FYV,RFX,FQ96,RXLK,0.73,permitted
+police,normal,luxe,a2,off,0.46,permitted
+EG ELM,p MON,LTJ,EW19,VEQJ,0.85,permitted
+ZR HPO,v ARK,GGL,HB47,UFFA,0.83,permitted
+others,vip,luxe,a2,peak,0.84,permitted
+YZ APN,r UDS,HQP,XV36,YLVM,0.86,permitted
+IJ XHD,p YZL,HBV,WQ30,VJPZ,0.28,permitted
+IP ZUU,h QRZ,BJQ,UD45,TBGG,0.19,permitted
+AB LPI,o FSW,ZXZ,HG40,JAVZ,0.71,permitted
+NO LRH,h SWI,BKX,SZ59,YXTR,0.8,permitted
+CV QED,x LRE,NQQ,IM49,EERZ,0.53,permitted
+CD EEQ,w QHS,GLQ,KD64,EZLZ,0.24,permitted
+AO YBX,w IXH,WUF,BL03,CNUO,0.18,permitted
+PC ZVH,n EJV,UHG,SC35,IYSZ,0.23,permitted
+DR KMU,z BXO,RHY,RV54,XUCU,0.14,permitted
+SY TKX,m NXD,VYY,II61,RSYQ,0.73,permitted
+XD PCN,u OEF,LHG,YE76,XOGJ,0.7,denied
+HQ WRH,z KQM,OEN,BU78,BBFF,0.21,permitted
+police,blacklisted,normal,a3,peak,0.55,denied
+police,blacklisted,luxe,a2,peak,0.37,denied
+DN CLT,e HDR,NRY,WI49,JPCQ,0.23,denied
+XK UFW,x YJM,NHF,CM09,LXCI,0.79,permitted
+partner,normal,normal,a1,peak,0.24,permitted
+ES KOZ,e UAX,UZS,RX85,BCFK,0.36,permitted
+HJ EDD,l ZGK,ROX,OH64,SROX,0.73,permitted
+PQ NOL,a FQF,NKV,BZ81,FGJM,0.67,permitted
+YN LUF,v LBE,MVC,DQ28,RUNZ,0.55,permitted
+XJ PCQ,u HBR,JGV,WK86,BRWB,0.92,permitted
+YN RHP,v KGB,BQM,DB11,ZWAC,0.89,permitted
+OS INL,b RSA,UNS,AV66,UVCD,0.33,permitted
+partner,vip,normal,a2,off,0.74,permitted
+partner,normal,luxe,a3,peak,0.84,permitted
+FN QLY,w EGN,YER,SA67,SCXT,0.26,permitted
+HW OIZ,t IZH,YBO,TJ31,GTRP,0.38,permitted
+BC UZP,h HWN,BSK,OS16,CYVO,0.96,permitted
+SY KBR,a IAW,QQR,QF44,CKZD,0.9,denied
+others,blacklisted,luxe,a2,off,0.81,denied
+police,vip,luxe,a3,peak,0.24,permitted
+FX OMK,z QWK,PJI,TB47,AFJT,0.97,permitted
+IT ENB,v QJF,RYR,TO68,OTID,0.27,permitted
+caraccess,vip,luxe,a1,off,0.57,denied
+ZG GEM,r DWT,MYO,SA31,RUVS,0.42,denied
+WD NWY,x WEN,TNU,HE87,SRUS,0.18,permitted
+PO UYE,x YZW,GRU,ST58,IEOO,0.59,permitted
+ZP TAG,n AFC,PSF,WH71,MIMS,0.61,permitted
+KZ VUX,d ONH,WJQ,TD00,ALVL,0.82,permitted
+YU STG,h PQI,QJT,LL97,LHNE,0.72,permitted
+LN IDN,r CJE,YCA,GU95,VMNZ,0.95,denied
+OR WOU,h NJE,WRC,JF38,RSCB,0.07,permitted
+LY HOW,d CON,WSC,RN91,YVJN,0.17,permitted
+TL FLP,e ZRD,FTT,ZS24,AGHF,0.75,permitted
+RI FHZ,s XJU,FIZ,JL72,XXUP,0.33,permitted
+WI TJG,t YCN,RZJ,ZW19,RSAH,0.14,permitted
+VL IOO,k KBZ,SYZ,PR20,XNAB,0.14,denied
+OU LFC,b PQV,XLX,LB18,GTEV,0.33,permitted
+RH XJN,x MAD,ITC,CU49,IXCJ,0.47,permitted
+HM TIR,g DWF,YRR,TB82,QLXK,0.45,permitted
+CD OCR,n WBW,MNL,KB19,ANBT,0.58,permitted
+QV WNK,j QIB,GZU,PJ78,SGNG,0.81,permitted
+SO XBN,b MJV,FRN,LD90,FYSR,0.57,permitted
+BF NQD,z UNF,GNA,RP73,UEYZ,0.9,permitted
+HK OCL,d FBG,QIX,IW14,NMIN,0.98,permitted
+IU GPP,j DUZ,IMX,MW72,QSQT,0.99,permitted
+VA WRS,k PXB,BZX,IX74,XECA,0.52,permitted
+XA ZIO,m FSL,UFL,CT25,ACTD,0.65,permitted
+US BWO,e EUQ,HWN,RX65,AOXB,0.77,denied
+ZX FNX,r URH,ASC,FT06,NFWQ,0.15,permitted
+caraccess,vip,normal,a3,off,0.18,denied
+EP CHA,o XUI,GEM,FZ21,WFEL,0.75,permitted
+CG BQQ,w LDD,KXZ,OC13,TAMJ,0.53,permitted
+II PVO,g DIS,NNY,SI93,SOTK,0.91,permitted
+NY PUP,z HQW,YCT,SH74,SDQW,0.26,permitted
+HB XFB,m TTZ,ZPX,UM41,CBHU,0.47,permitted
+HP FII,l NPZ,UPZ,RU01,TDXI,0.61,denied
+FO KLC,x PXQ,RZW,DN08,BJIF,0.05,permitted
+KZ KVP,m LAC,DBK,OF35,YKNJ,0.03,permitted
+BK ZPI,t UTF,VOV,ME24,FSBW,0.01,permitted
+QZ GGZ,a JMI,JGU,OF54,REFI,0.06,permitted
+SW TSS,k NHC,IHS,XL16,LJHB,0.2,denied
+SG SVI,a VZN,ZZZ,TL63,CGTW,0.29,permitted
+KL AVQ,f ZGS,RQF,YO36,VEMH,0.47,permitted
+DL ETB,k PER,VRF,YB23,WVGB,0.27,permitted
+RF UXC,d WCD,UME,CI82,GSOJ,0.95,permitted
+caraccess,blacklisted,normal,a1,peak,0.34,denied
+EQ FRR,u ODS,KLC,RM43,KQSR,0.4,permitted
+UM CRD,t RFO,HJW,XB60,MTZB,0.15,denied
+KQ PXC,x QZB,GQM,TY49,LDIA,0.5,denied
+GT KRH,k PQS,CXU,BT73,TXUN,0.54,permitted
+KD CHO,m GSX,SST,SX55,FFOA,0.91,permitted
+QK LUD,b ADS,BPG,FZ65,YTAC,0.73,permitted
+NZ VVA,t FHC,WHV,PH61,VEZD,0.06,denied
+WY AWW,q RMJ,AAZ,YF29,WOUP,0.05,denied
+police,normal,luxe,a3,off,0.96,permitted
+FF UWG,h KQZ,OKB,ZN76,SWZI,0.56,denied
+NI ZID,l PFB,BDX,CL08,TRHI,0.03,denied
+others,vip,normal,a2,peak,0.46,permitted
+YM DFV,m WDW,SMD,SE79,DVDU,0.44,denied
+WT USU,z CPE,IYJ,BF53,PDRI,0.64,permitted
+QT CJC,e MMO,RWJ,TG69,MDML,0.53,denied
+VI UBL,q NCS,QBN,WL22,HJOF,0.5,denied
+others,vip,normal,a1,off,0.22,permitted
+RL YWY,q JWG,ZZG,BA87,SKCD,0.09,permitted
+DZ LCC,g AAC,LVH,RV49,NUKD,0.31,permitted
+CA VJM,c VRN,NWZ,IH99,BQKE,0.08,permitted
+JN DLO,k CEI,MNT,QF47,IDTL,0.41,permitted
+IL LHZ,h OFT,GBK,IW51,IMZU,0.08,permitted
+QR FIA,k HHN,ICP,RJ81,GCCF,0.2,denied
+JO NVH,q GIT,JSW,EC02,PNFR,0.45,permitted
+NA AUF,n XST,COY,RO88,DZOH,0.02,denied
+VB TGW,n QDI,WUZ,LW52,CILV,0.99,permitted
+FC WWV,z HHM,VQZ,PK22,WUKW,0.01,permitted
+FO VHC,c WUN,PEY,AX05,FKFA,0.67,denied
+DA GHS,z KQY,CFR,NX48,ZVKE,0.69,permitted
+ZG DQF,x JZO,NLB,ZW12,WOZB,0.02,permitted
+WA FSQ,m RHQ,XTX,CY05,GQVS,0.4,permitted
+ER NFZ,g NXC,AIM,XS42,HCEG,0.76,permitted
+FV EKU,n EYG,MJR,HM99,KDOG,0.29,permitted
+others,normal,normal,a1,peak,0.07,permitted
+caraccess,vip,normal,a2,peak,0.34,permitted
+BY WHZ,d CWR,YRL,FO33,WANU,0.32,permitted
+UB LEI,o KER,QAD,UV09,KSNS,0.04,permitted
+others,blacklisted,normal,a2,off,0.19,denied
+HO UCB,m CMO,FYC,EJ06,KZYH,0.59,permitted
+CG YWO,f QOG,DDF,JE57,MJOW,0.58,permitted
+GO LGL,i GZQ,TYT,OJ16,RTRP,0.29,permitted
+SF IOJ,b UNE,UPL,KI57,FUXD,0.22,permitted
+EJ YAA,b MVX,WUQ,JV62,KLZL,0.46,permitted
+KW VTS,s YIJ,YLZ,AU81,YOBD,0.34,permitted
+HJ GGS,g ENY,UXQ,OP41,OGFT,0.44,permitted
+IK ZTI,k NBK,IMQ,PA00,IXYI,0.14,permitted
+NW ZEV,k IDG,ZVT,ED92,LETD,0.29,denied
+GJ AWF,e BFC,CCJ,HR13,ZPDT,0.81,permitted
+QS TAZ,k HXB,AXF,HQ57,UOSY,0.56,permitted
+DM NCM,t TKA,HJV,TC18,MDER,0.55,permitted
+MO OME,p NQR,UXJ,UR42,WMXE,0.66,denied
+DL BNT,l ORB,JTR,YR70,VNVB,0.93,permitted
+UX FNU,o QTT,XBI,VH84,OJCW,0.08,permitted
+YB DAV,k DMB,AEK,ZM83,OFMY,0.9,permitted
+QM OCU,o QJB,OTG,GJ32,BARF,0.8,permitted
+MV NPE,b MYT,TEU,WB95,WRCX,0.97,permitted
+partner,normal,luxe,a3,off,0.83,denied
+IY JED,c GYB,DUM,PE34,IVDH,0.26,permitted
+police,vip,luxe,a1,peak,0.87,permitted
+EQ OUC,v MZI,CSE,WH82,AAHN,0.04,permitted
+DI TSG,q MOU,IPD,LC40,QMRP,0.64,permitted
+TR KSI,l BZK,KRO,NY32,GKXL,0.29,denied
+PB RIR,u NTE,WHT,GS05,TIVS,0.97,permitted
+WS ZCT,g WKF,ORG,KF95,VNYY,0.64,denied
+VD VYS,g VQO,PAH,JT13,TNMF,0.76,permitted
+AG KGA,a NFF,CMI,HC82,KGWA,0.95,permitted
+RT HUN,w TGR,BHP,IN12,CQRG,0.77,permitted
+YJ DJY,c VIR,ZYB,IS91,NSGQ,0.8,denied
+OD SYQ,h PTS,UDF,SE09,JFFO,0.25,permitted
+WL BHO,a SYS,NCP,MX15,SYPQ,0.85,permitted
+SB EOV,d BWD,SEW,IN81,IKZA,0.37,permitted
+VB BHO,c LXL,ORN,OJ11,VAJM,0.69,permitted
+TK KXS,n NIW,YFB,AH18,BVIT,0.84,permitted
+YS OTJ,m FSM,DKR,UR39,KRBK,0.7,permitted
+MM IBM,v IOX,XHZ,WO54,KYAN,0.14,denied
+RV IPW,i APF,TRQ,CJ57,RJXC,0.69,permitted
+BB YJT,k HRS,ACO,XG04,XWJO,0.64,permitted
+XO KCI,e FXI,ECF,OI17,AUPL,0.45,permitted
+IE XRL,z TVT,GZQ,SF74,GCNC,0.61,permitted
+XF ZHG,f SBL,CDF,DO02,FAIT,0.83,permitted
+RG VMS,p DWI,QJR,UU30,YEZQ,0.25,permitted
+VT PWV,s KWS,EDO,LA47,UEMS,0.9,permitted
+QK KVR,b LBO,HDK,QH94,HKBU,0.63,permitted
+VS VZO,m KQD,VDT,OQ04,HZNE,0.14,permitted
+XT LPM,p KKB,ANT,ST07,HMZM,0.9,permitted
+others,vip,normal,a1,peak,0.94,permitted
+JL UHN,l VNP,FHK,KW43,PDVZ,0.14,permitted
+ES TRM,z HNR,ZKI,YP77,DQGC,0.97,permitted
+DY NKF,n ZPB,CZD,YM26,ZUMT,0.13,permitted
+CP KOX,y BEQ,XPD,KG87,FOVV,0.52,permitted
+YP FPE,j SWJ,QJX,XW27,PHNN,0.92,denied
+BG YHZ,x UPU,GHA,HC11,ETBS,0.08,permitted
+YK EKB,n QGS,BXC,DS27,LANL,0.2,permitted
+PX ZEW,a JAM,JCV,ZL81,CLUY,0.94,permitted
+BV PLM,p DPG,KLK,FB87,OEBL,0.54,permitted
+SX JDK,o LWP,NFK,ZG76,EPDK,0.44,permitted
+caraccess,blacklisted,luxe,a2,off,0.48,denied
+FQ WVU,n CBW,BHE,ZJ26,DURK,0.94,permitted
+TZ NEA,s HKU,PCE,OL52,FICP,0.39,permitted
+UE IBF,h EVH,MJO,YW90,PALM,0.43,permitted
+YX LCG,s UEI,LJB,CC43,MKVV,0.3,permitted
+NW MCG,t ZXM,LXP,KO68,HWLN,0.41,permitted
+OU CXY,u NMA,YAE,VX80,STKQ,0.67,permitted
+GJ TIP,z KGW,AVZ,IC64,DVKK,0.99,permitted
+HM NSY,z UJX,FNZ,PU64,JBOV,0.15,permitted
+IU QLQ,n TSI,KEU,KQ07,TTJL,0.08,permitted
+RX ANC,j BQH,RGO,IT92,ZGBL,0.59,permitted
+WI PFQ,p JVX,HGS,GU60,GGDI,0.29,permitted
+GQ DQX,h MSG,SUV,OJ90,URCS,0.23,permitted
+others,blacklisted,normal,a1,peak,0.98,denied
+YU GCF,v QME,AIP,WM77,BCDJ,0.67,permitted
+EA SBM,j AHE,UXS,JJ17,YQSB,0.43,permitted
+RX XNF,r ICA,ZNV,GG67,VBFF,0.46,permitted
+NR KQX,r UDU,JPT,OB13,CHEM,0.47,denied
+EN LEE,a KKC,SQN,IA02,FZVX,0.51,permitted
+HK POV,x QPD,CTS,XO07,SPTS,0.48,permitted
+partner,vip,luxe,a3,peak,0.64,permitted
+WG BWJ,p JQH,SMA,OA50,KBCB,0.25,permitted
+BA ORN,h BJS,DPY,JG54,LNHZ,0.69,permitted
+FK HOL,p LSB,YUI,GV85,GKJS,0.83,denied
+HU LUX,z ZMC,OOV,PF40,ZSAJ,0.56,permitted
+RL ULJ,k XSQ,FLY,XA23,RIYU,0.89,permitted
+YB OCM,h DNC,AKH,CY08,XDMW,0.43,permitted
+EV FGS,q IUR,JXR,ET06,QNAS,0.52,permitted
+YI EQC,c CEG,OKV,IO35,ZNAQ,0.11,permitted
+HO PSD,r VMT,OMN,WH90,XQWT,0.41,permitted
+ZF MHS,i VLR,MPX,TJ80,TPUK,0.02,permitted
+GQ TKQ,x PGQ,YFD,YU53,THJB,0.24,permitted
+WT NXR,k LLL,OXV,KI79,INOX,0.04,permitted
+EI QSX,m BGY,BWY,ZN55,RJBP,0.6,permitted
+UR ULH,a DOB,RIA,BO55,MOWQ,0.18,permitted
+TR CCJ,k VKW,GWN,JM84,ZSNA,0.59,permitted
+ID OKC,b DSM,BOV,HI15,KUTQ,0.53,permitted
+VU GOI,y MXJ,PIC,JT83,DEQQ,0.82,permitted
+GM ITD,t VWG,HPM,PA96,LVOE,0.92,permitted
+WP QEU,t DFT,XRV,ZL53,NFXJ,0.46,permitted
+CN ADM,c JQV,VAO,EK08,ISRD,0.47,denied
+US GXI,l NEK,AMG,JX67,MSYX,0.96,permitted
+CB LKV,h NHR,GGW,GM64,FGLV,0.09,permitted
+police,blacklisted,luxe,a3,off,0.01,denied
+DD QTG,b KUB,PSH,HN48,QMNQ,0.74,permitted
+caraccess,vip,normal,a1,off,0.33,permitted
+ZC AVI,g YJH,NUA,DE03,ROVY,0.8,denied
+MS DJJ,p HXR,MRG,IQ66,VMLT,0.13,denied
+others,blacklisted,normal,a3,off,0.22,denied
+MF OJF,d KJF,PJT,AA36,KTTS,0.48,permitted
+CF JRP,p ZZQ,RLH,BN51,UDNU,0.36,permitted
+FC QKF,n HOQ,RSS,ST36,ZXXB,1.0,permitted
+PU DLR,e QRL,XVN,QJ19,BLDF,0.4,permitted
+OE XYV,k TXB,QDS,PZ82,RCWB,0.28,permitted
+LS DQZ,t MOY,BAI,BF67,RAIY,0.47,permitted
+YT OWK,e LIT,YBJ,WL51,ZSGG,0.65,permitted
+caraccess,vip,luxe,a3,peak,0.66,permitted
+OF VRY,l SLX,TME,KD69,RHKI,0.96,permitted
+LO XOM,w KZN,EYM,UV99,CHQT,0.67,permitted
+GH RFR,o PPA,RXU,WZ84,FRZA,0.53,permitted
+others,blacklisted,normal,a3,peak,0.2,denied
+AT ESV,h IJL,RGO,LV39,HTOQ,0.22,permitted
+JP WHS,t EHS,TPL,WU27,UHFY,0.21,denied
+KU NWX,z XSO,HIN,PX44,ROJR,0.69,permitted
+others,blacklisted,normal,a2,peak,0.08,denied
+DU JLB,c CHQ,TPU,SV95,IZHJ,0.31,permitted
+KW GHU,g SDM,ODZ,JU20,DARL,0.35,permitted
+TA AVM,j AHH,MAF,LD15,OROD,0.39,permitted
+BA MBO,w ZTJ,OMK,EO29,JXJG,0.12,permitted
+IV SOZ,b SHV,OZX,NI72,OCAV,0.59,permitted
+GG ITH,b JCB,QAY,GX98,KQNQ,0.46,denied
+BP ARI,k DZL,IBA,PY91,NFJN,0.86,permitted
+PL HJJ,o BSA,AER,LO84,BJFR,0.04,permitted
+TR FWK,s RNN,YJO,EU38,IAYN,0.62,denied
+XV GBD,z AAZ,CWJ,OE89,VKIH,0.11,permitted
+EX NNG,c FVQ,NTS,KT11,PUUA,0.69,permitted
+SU LWO,a XZT,EXD,TS26,PPHV,0.72,permitted
+FZ TYE,l FOA,PKP,WK37,BSJZ,0.52,permitted
+partner,vip,luxe,a3,off,0.8,permitted
+QF AGP,f XJS,CIJ,MM00,KLRL,0.33,permitted
+MD YDE,k OMS,NUZ,NT46,XOHD,0.84,permitted
+UD VUM,v TMX,IMN,DB04,MFAD,0.57,permitted
+BL HOU,f CUX,PWT,KX80,FZXN,0.05,permitted
+SN NXZ,v QUV,WAW,TK83,REAV,0.51,permitted
+partner,normal,luxe,a2,off,0.87,permitted
+HC ECV,e XWT,NJP,VV68,TMZR,0.57,permitted
+OX KFM,x MKC,GWP,NG45,VDQP,0.87,denied
+RE BHL,z XJV,JOG,MD18,ZXUN,0.87,permitted
+ZU IXW,h TAH,ULJ,YK27,LMEJ,0.75,denied
+ZM GUW,m ZJB,MXD,IZ17,CITQ,0.21,permitted
+CB MIK,i HBR,YMK,ZZ27,EKSP,0.93,permitted
+RJ MSU,e KES,SCO,BC07,ZJCY,0.68,permitted
+QY FRH,t RPV,JOL,RZ46,FRNQ,0.45,permitted
+NJ ZVE,x QRY,QBS,TV74,SXPA,0.01,denied
+AZ SKM,u YDN,XNA,XS12,BBDA,0.34,permitted
+LW VIY,d YXM,ZZA,RZ15,XMDO,0.14,denied
+HZ KEP,t BFG,IBA,GK83,NCOX,0.5,permitted
+JN QOL,x FID,MKQ,TP83,DLCH,0.48,permitted
+GD RYN,v YWO,BSF,SY98,FHXV,0.64,permitted
+ZY OUF,s FKU,MOC,ZB43,NKKG,0.14,permitted
+OH DNN,i DNR,PBV,KS68,BMBM,0.79,permitted
+BB UGF,y WZV,XTI,PH92,FBIE,0.27,permitted
+KD VRF,n BFE,VGN,KB02,SFTD,0.28,denied
+KX HQZ,d FNQ,TRH,RT88,MWLP,0.11,permitted
+FE VRV,v BDV,NDZ,GT21,TCIN,0.51,permitted
+SZ KPO,h TAF,QYL,CI27,QNXU,0.11,denied
+JF VJS,b NEE,UZU,BT40,ZLJV,0.45,permitted
+KL ONG,z NPE,XOX,DE14,FNMI,0.82,permitted
+UT AHY,o FRA,GXC,XQ21,MSIA,0.49,permitted
+DI XMC,h SPS,SJE,NX15,AUUY,0.61,permitted
+others,blacklisted,normal,a1,off,0.59,denied
+CS QEP,q PLK,QIX,ZT91,QSYP,0.79,permitted
+TO UDI,x QDA,OHQ,JB91,OAFI,0.98,permitted
+AG JMY,x KGG,VUO,EW19,YKIK,0.13,permitted
+GG VXU,k TAV,VMA,AQ53,VCLI,0.69,permitted
+UD DGA,i NYY,KLI,ZZ84,KIRR,0.4,denied
+ZG AEV,e DFH,QRO,FX96,NBRB,0.83,permitted
+RQ ZMY,j BUZ,PWQ,DZ29,JVTN,0.95,permitted
+MQ PGD,y IRM,FUG,TJ85,PTEL,0.59,permitted
+TL YQN,e YEX,WZQ,YJ65,NQPZ,0.45,permitted
+GC ZRS,m BWS,DJR,UP22,DFLP,0.88,permitted
+PA OQE,p QEG,HTR,OL63,WQIO,0.39,permitted
+PX AEN,z QZJ,GCI,SK15,SYHH,0.19,permitted
+HB TVS,b ORT,RMJ,JB18,HCKI,0.53,permitted
+QE GKA,o SAI,XES,HV49,WMQE,0.89,permitted
+CL IOP,n HDC,QSQ,ST68,DLUC,0.1,permitted
+DT NBS,s LHH,GHS,EP04,VEKI,0.05,permitted
+caraccess,blacklisted,luxe,a2,peak,0.85,denied
+MB FUZ,t BMT,TCN,ZB25,DQPR,0.91,permitted
+XM XBM,h NUF,GJT,JV20,HZIJ,0.64,permitted
+WX AEQ,n KMS,BLN,SF85,ZTYO,0.69,permitted
+partner,blacklisted,luxe,a3,peak,0.47,denied
+others,vip,normal,a2,off,0.19,denied
+UB LJV,h HUR,OBZ,IR38,SBFB,0.14,permitted
+ZT TNA,w MKU,UNN,AM08,JLWO,0.61,permitted
+FD HDS,j CXN,EAV,JH97,DCAD,0.38,permitted
+others,normal,luxe,a2,off,0.07,permitted
+SJ EJY,x LQY,RKZ,QQ57,FHST,0.31,permitted
+BH CBR,t YDD,RNP,TE56,LVXD,0.07,permitted
+YE HIZ,t AAB,QTM,JZ10,NGMZ,0.99,permitted
+TV FBR,t QWE,CLK,YV84,HVJQ,0.86,permitted
+YD WAG,c VHJ,HZJ,FW09,PTPO,0.41,denied
+police,blacklisted,normal,a1,peak,0.28,denied
+MP MYW,t NSM,KXY,AP23,OFVN,0.84,permitted
+CZ NOA,r YLT,WGV,WW33,SCZE,0.98,permitted
+DT VKC,i GCK,WZR,UK36,QYAQ,0.82,permitted
+NF ZGQ,u JOY,SEI,FO63,GEBM,0.75,denied
+GV EKH,p LFK,NEZ,XA39,TZHS,0.25,permitted
+IU VWD,a YCO,LVU,LJ83,KPJB,0.34,permitted
+RQ EEV,d WXX,CFL,DU24,CIAA,0.96,permitted
+partner,vip,normal,a1,peak,0.89,permitted
+VZ POO,z BTL,WPV,NJ41,LCEH,0.27,permitted
+IP WVW,j FQA,IRE,TV47,DLBA,0.79,permitted
+FV JEE,v OZZ,RAT,TI47,IAUV,0.58,permitted
+QL ZHV,b QRF,XCL,AN11,NFVH,0.95,permitted
+TJ PLX,y XTH,BZT,JZ56,VJNP,0.46,permitted
+YL GNA,o HZT,AKA,DG63,OOXV,0.27,denied
+JH ILL,n CJD,SZL,KI82,VSLJ,0.82,permitted
+DK TNT,p IRH,SAA,NX38,LKSR,0.7,permitted
+YZ URX,y RND,ENF,QI95,PSIM,0.41,permitted
+BD OTD,l MGI,EWX,RU18,IUTV,0.8,permitted
+others,blacklisted,luxe,a3,off,0.77,denied
+KN YAT,r LRZ,ZGU,FS24,RXGY,0.69,denied
+partner,blacklisted,luxe,a2,off,0.55,denied
+YR TQZ,u RIU,OUZ,XV82,YPDO,0.22,permitted
+KA SNV,n LQA,NMC,SQ51,VDGB,0.57,permitted
+WI JIS,j DYL,PIH,LO52,JADD,0.32,denied
+QL OTV,l DGL,OPP,JZ48,ADBY,0.61,permitted
+others,vip,normal,a3,off,0.95,permitted
+partner,blacklisted,normal,a3,peak,0.6,denied
+caraccess,normal,luxe,a2,peak,0.75,permitted
+JC TLQ,s EHE,XQW,XF43,HWIZ,0.47,permitted
+DP VYT,j SHK,KQE,NX56,BSFD,0.31,denied
+NU NCC,c GLE,POJ,AL92,MQQS,0.4,denied
+PC AZX,g YKO,HBB,GN16,CFFP,0.34,permitted
+PR RRW,j KRK,YKU,EJ66,OJAV,0.75,permitted
+LY VUP,m FFL,CBE,ZE14,GEUC,0.2,permitted
+VG EIQ,v NYT,VQG,CU92,YCYY,0.62,permitted
+JP PHU,u ABC,IIY,GK85,BVMR,0.66,denied
+BP QYJ,q TGV,FWY,EU73,EWSA,0.78,permitted
+YJ GKE,v CSV,OVZ,OY73,CPHE,0.9,permitted
+caraccess,blacklisted,normal,a3,peak,0.54,denied
+XF JIA,u EXX,MEH,YC70,WNJO,0.61,permitted
+others,vip,luxe,a2,off,0.03,permitted
+NE JCU,e GNX,KSF,GQ37,OBCV,0.16,permitted
+FK EQB,s QZB,WIN,JS46,TCHT,0.11,permitted
+KU FBP,k SWA,KUQ,FI06,ZPEN,0.55,permitted
+CI NJD,b AKB,GTI,KS80,IOTW,0.06,permitted
+UK ELG,p SPU,IPS,TA55,QRUF,0.25,permitted
+ZG ZOS,n MFE,BAK,LW47,YUCI,0.55,permitted
+WC PPV,u JZS,JWJ,VR94,OMDE,0.07,permitted
+CC SBD,f GNE,FJT,WQ92,EVKJ,0.65,permitted
+GW FCO,e DXL,SJS,DK11,IAPP,0.9,permitted
+NM DVW,a BNZ,LJW,VM10,TPTT,0.77,permitted
+UN BMU,u NQU,CKE,SC42,FJCX,0.83,permitted
+YA DQH,n HOH,QAP,UQ14,XVHU,0.87,permitted
+UG LTF,a YAB,VIY,CX06,AYKY,0.44,permitted
+caraccess,vip,luxe,a1,peak,0.7,denied
+BS PCL,i COH,PKC,SH64,RGGD,0.14,permitted
+IL LNL,r IBX,OKM,AL97,MIJK,0.68,permitted
+caraccess,blacklisted,luxe,a3,off,0.21,denied
+KV VKJ,h FRQ,RPW,DF77,CWHP,0.06,permitted
+caraccess,vip,normal,a3,peak,0.09,permitted
+OE AKV,h HEM,NBF,ZD29,LNLP,0.33,permitted
+XQ TIY,p SMW,ZPQ,ZG15,PVNE,0.42,denied
+RB SUY,z MXV,HGN,BL45,GRUM,0.36,permitted
+XL DCU,y VWF,JMI,QQ33,VZWF,0.35,denied
+caraccess,normal,luxe,a2,off,0.46,permitted
+YK LVQ,k TLS,NXL,DY18,PIKG,0.48,permitted
+PZ REQ,t RVN,QUT,SN15,DVYT,0.56,permitted
+LV UCI,c YIQ,GIB,YP48,YPTC,0.34,permitted
+YB DNE,d BMB,BMD,OV83,QNCO,0.02,permitted
+QQ UKZ,i SHJ,FGA,AM31,DFBN,0.7,permitted
+GO NRT,g EIZ,IGJ,MO09,XNDT,0.29,permitted
+GK GGK,d UGL,QAT,QQ06,SKYH,0.85,permitted
+others,vip,luxe,a3,peak,0.93,permitted
+GJ NHS,u CAG,ILM,FC61,JRNJ,0.73,permitted
+IJ UIX,a DWZ,PCB,RI88,NZCS,0.88,denied
+HS YBR,u LFP,UPG,HZ18,PBIE,0.28,permitted
+YV LKM,q KQW,VQH,LK24,BVIA,1.0,permitted
+partner,blacklisted,luxe,a1,peak,0.86,denied
+JS LFO,o FUN,KSY,PK70,CMWW,0.37,permitted
+ZO VML,u VUL,QIZ,NY48,QUNJ,1.0,permitted
+PI FYR,g VOG,SUJ,XR34,KJOY,0.35,permitted
+RJ ZOB,w XGE,RZR,WJ08,CHBY,0.51,permitted
+UK YDG,s VHF,UHS,XQ00,ROYR,0.09,permitted
+RU OGM,c CAK,RSB,DI67,BYZA,0.78,permitted
+police,blacklisted,luxe,a3,peak,0.79,denied
+HS NTB,h DUB,GAC,WR12,LQGF,0.13,permitted
+PO VMA,j ICK,PSQ,MW18,PBRP,0.38,denied
+ZO YYY,g HAU,KRX,CF77,YHYI,0.87,permitted
+police,normal,luxe,a2,peak,0.89,permitted
+IL IFL,n FRL,VYV,CX06,CZOO,0.4,permitted
+JX XAZ,c SGZ,NPL,EO69,VIHA,0.51,permitted
+QN OMD,i TIA,ASO,ZE09,ZVHR,0.61,permitted
+AO MJQ,r PHR,MIG,RO37,WZUZ,0.12,permitted
+LX YGI,x JIF,AAH,TY57,FHYR,0.78,permitted
+police,vip,normal,a1,off,0.46,permitted
+XR ITE,s YIY,EAP,KD85,LGCU,0.14,permitted
+SB BXI,j KGQ,CXL,XM70,WQCZ,0.76,permitted
+RV USE,f FAB,BMM,JM58,TNHS,0.28,permitted
+SD GUU,v UDB,ACF,IS39,KANS,0.67,permitted
+caraccess,vip,luxe,a3,off,0.68,permitted
+CL FEV,j WOP,EBK,SU21,PFHL,0.99,permitted
+JI ELZ,t GQY,NAT,XP87,BHTB,0.33,permitted
+HA FLR,x EKD,HLV,VY47,LMCJ,0.48,permitted
+RE RPC,p QLH,ACX,ES72,FJHT,0.76,permitted
+FV XXO,n IJP,APC,TS01,DUPR,0.34,permitted
+IA GFZ,x MUA,GLH,LB08,QDDE,0.93,denied
+CR JXW,w JKJ,IKK,CP05,GPCJ,0.22,denied
+US BJW,d IUD,EPX,DE73,BOVV,0.96,permitted
+VW VVJ,f VHD,KOA,VL02,EZDV,0.35,permitted
+CP NQV,p QNL,FDV,VB03,YZMF,0.34,permitted
+TC STJ,v WBO,IHG,UE04,TNVE,0.7,permitted
+KM ENP,i IMQ,BTC,JS84,BPWL,0.71,denied
+DW NST,k UPP,PHI,EM85,IIUZ,0.18,permitted
+IR PVN,x AUI,FIN,CM23,GMIJ,0.11,denied
+BO GXM,o EQP,SYX,EY11,CKHP,0.47,permitted
+YJ IZP,a VSL,MEK,CQ01,BCVT,0.31,permitted
+QB BPL,o HGX,UJA,CA74,NZZK,0.64,denied
+PB XMG,b HVS,ZFF,KM34,WTHR,0.77,permitted
+SC MMT,b JCY,TGU,NF62,NSUQ,0.45,permitted
+DO CJV,j AOZ,ASC,LF97,TFBJ,0.3,permitted
+TN YXX,f ZHR,POG,QI41,OIYR,0.04,permitted
+AR FEG,h QHW,MYQ,AD68,FUIX,0.46,permitted
+YI JUH,t ILD,EJI,PJ68,UQYF,0.0,permitted
+RB VTE,s SPC,LNJ,PU62,SYHX,0.62,permitted
+VX MPM,l HUI,GGE,ZB40,UDNI,0.65,permitted
+SG SCN,l JXH,NAZ,KB75,EKGD,0.91,permitted
+MI CUV,o RPS,SPX,UI19,YIWS,0.85,permitted
+XT XYD,q MCI,VUT,HY75,HPWD,0.95,permitted
+EP YYZ,f BCW,GCY,MK83,ULWC,0.59,permitted
+TX IXF,z TWN,RPD,LK62,ZUCP,0.52,permitted
+QU GPQ,j GKO,ENP,BV90,GLTT,0.67,permitted
+TN WWX,j POT,YPC,FP19,UXOR,0.43,permitted
+FL ELJ,g OUT,KUZ,PD59,FZYP,0.23,permitted
+VD MQB,y HSE,VAX,XZ51,BZJD,0.34,permitted
+HY WZW,v FNL,YKU,DL27,MSAT,0.0,permitted
+EJ BRS,g DTY,IOA,KN07,RROT,0.79,denied
+JT JYO,g URP,FQZ,JC66,CGPC,0.17,permitted
+GO KBM,p RMG,ZLM,RL16,SGXL,0.85,permitted
+DS BJF,s BGJ,EKD,MC72,XRCP,0.68,permitted
+TZ ZPK,b MBK,WQV,QT79,EMPP,0.04,permitted
+FV MQI,w FMO,JIC,FS89,WZCG,0.46,permitted
+AA XRG,l EWJ,LHC,ZD88,LIQO,0.3,denied
+FU KIJ,a JVH,GWK,YO30,LUJR,0.04,permitted
+LU RJT,l PTE,QDY,EX91,BJWF,0.02,permitted
+VE PJE,t JNM,JGJ,KE24,HCST,0.6,permitted
+NF BFX,l WOV,HOV,ZQ72,OSFN,0.44,permitted
+police,blacklisted,normal,a3,off,1.0,denied
+partner,blacklisted,luxe,a1,off,0.5,denied
+KP UHB,j GRZ,JJZ,WU66,SZHI,0.01,permitted
+MA KEC,f SKW,TTZ,CZ38,MYIW,0.64,permitted
+TM ETK,e XFR,OQA,ZZ66,DTQE,0.32,permitted
+ZF RVK,c ZAH,KTA,GW22,VXBI,0.91,permitted
+SX YHW,w PFH,WSN,EY61,SCJN,0.73,permitted
+others,blacklisted,luxe,a3,peak,0.35,denied
+NT SQF,p NXI,GTN,QO27,JSMH,0.02,permitted
+SJ HSC,m ALP,LFP,RC86,GUCC,1.0,permitted
+TI DJT,c FDD,XDO,NL86,VEJW,0.82,denied
+FU MQN,h QCH,VAE,NR95,VITA,0.18,permitted
+police,vip,luxe,a3,off,0.5,permitted
+PW LRH,h LNK,HEY,EY24,UHRN,0.4,permitted
+TP UDE,b PSM,ROR,LA38,UTZM,0.42,permitted
+ML RAG,x YJV,MDI,PK34,QGYK,0.25,permitted
+LM WHJ,r ITJ,MTO,ST25,HWZZ,0.55,permitted
+partner,blacklisted,luxe,a3,off,0.33,denied
+RF OFX,p HEG,NOY,AO29,XMPD,0.77,permitted
+FZ ZOV,s MTN,IVS,MJ63,UYRJ,0.61,permitted
+others,normal,normal,a3,off,0.32,permitted
+TW QNW,w HXE,DLX,VC25,ZCBW,0.78,permitted
+MW EVG,j OWZ,SXS,UK73,ABEY,0.94,permitted
+HE GKM,j BVE,KKW,FO11,QEKZ,0.43,denied
+EV NYF,d AUN,TML,ID47,JZPC,0.03,denied
+OZ IGM,g PYN,AWV,KO02,GZTO,0.6,permitted
+FA MIV,n MKY,ERJ,SK94,SRCL,0.51,permitted
+others,normal,luxe,a1,off,0.34,permitted
+MJ MMJ,g IAJ,TSY,BG14,WIAY,0.35,permitted
+police,vip,luxe,a2,peak,0.44,permitted
+SU GKB,x MCW,YMJ,CN05,HLDK,0.1,permitted
+FW AKD,j QKH,VOG,MV77,DSBD,0.17,permitted
+TO CAL,s VCJ,NQB,PR86,LVJM,0.63,permitted
+partner,blacklisted,normal,a3,off,0.33,denied
+IS CAM,o ERQ,CFZ,AX61,CHJG,0.26,permitted
+WP JVQ,l XSF,GNS,ZI92,CLIE,0.48,permitted
+IP HVU,w JOR,NLH,SX23,PZJH,0.78,permitted
+VB UMM,g ORS,YWJ,TN35,LKMJ,0.42,permitted
+partner,vip,normal,a3,off,0.98,permitted
+VJ LQA,x ACI,QIX,CC64,MRLO,0.41,permitted
+NA GSM,s ILA,HGD,MT93,VIIP,0.17,permitted
+IN WZF,i BPX,AQE,LU37,LKNB,0.55,permitted
+QF FZD,l NTV,ASD,OW32,FYOS,0.25,permitted
+EL UJP,o TIQ,GAL,HS88,PKQP,0.55,permitted
+ST CJQ,x LAM,EYW,PY31,LXRJ,0.09,permitted
+HD ONZ,j TVA,ZJI,SL59,DYDZ,0.83,permitted
+BS UEB,v OWU,RVC,UJ48,FCHK,0.75,denied
+caraccess,blacklisted,normal,a1,off,0.87,denied
+GM XHU,i ZVY,LQE,CT73,OAQB,0.79,permitted
+PV LKS,a GPM,PUC,MJ17,PBFL,0.16,permitted
+RU AMZ,e QZW,SBP,JB33,CQEY,0.81,denied
+NM CHJ,r VNK,YJL,EP39,KXAU,0.95,permitted
+WB LTC,v DFV,OYA,IB45,DGSC,0.46,permitted
+DF QLJ,z SCF,ITP,OD72,CBOU,0.27,permitted
+BX IWG,h EJK,RDX,RG92,CEDI,0.28,permitted
+NV MXU,e LFA,NHB,WS92,UOER,0.09,permitted
+NR LQP,r IPG,MVM,SX27,ZKIY,0.3,permitted
+BN ULO,e WTQ,LWG,WJ36,BJQM,0.7,permitted
+police,vip,luxe,a1,off,0.75,permitted
+AR ROR,i YFS,ZEH,OU46,BTYA,0.68,permitted
+police,blacklisted,normal,a1,off,0.73,denied
+NR LSN,h SON,WWS,RP85,YERR,0.65,permitted
+IQ VHO,p MCR,LQC,MF61,UIQN,0.16,permitted
+MQ NAA,r VPT,EHX,SU84,BCFB,0.15,permitted
+AE HCN,e LQQ,VCT,KW30,VPMK,0.73,permitted
+TP WGJ,r UDH,NNV,VT01,SVUN,0.43,permitted
+AV AYR,p XYO,QXX,MS25,FNYR,0.53,permitted
+FK EOX,q MYW,JWY,QS65,EPRF,0.49,denied
+JW LWR,v YGA,JYC,FN37,TMMG,0.74,denied
+CY IIV,y IZS,KBM,WA27,VQEV,0.42,permitted
+LT EOL,c CLE,SHE,PN81,EZWU,0.74,permitted
+police,blacklisted,normal,a2,peak,0.58,denied
+CZ QFY,s OXE,ABP,RQ68,MVAZ,0.38,permitted
+SI NLS,s RTI,NQY,RP81,PZGQ,0.35,permitted
+DE EYF,t RLS,QRS,SW20,TYRH,0.3,denied
+JS YUW,s SOA,MEA,YI29,LNLF,0.88,permitted
+caraccess,blacklisted,luxe,a1,off,0.21,denied
+SV RHR,p YOZ,AII,JN44,NKOV,0.07,permitted
+MP QJQ,z QGM,UCQ,SJ34,TUGZ,0.83,denied
+others,vip,luxe,a1,peak,0.9,permitted
+TH EIE,q CAA,ECJ,VR12,QTOJ,0.82,permitted
+RK VAL,p FFD,NVM,PU60,XXUU,0.67,permitted
+OR HVT,s BKF,BZU,CU21,LKGT,0.33,denied
+LO BFM,g IEW,CUX,YZ16,FYNA,0.66,denied
+RK GHC,n PWB,FPB,AC59,WXEJ,0.74,denied
+CK QXO,r XMX,CWT,XD22,DMPO,0.64,permitted
+RD NQO,d ASV,BAO,WC07,NEVD,0.34,permitted
+TZ DHM,g VZH,XOE,LE10,OISU,0.22,permitted
+WJ ROM,r HKQ,RBU,HY33,CMFB,0.65,permitted
+UB RVM,a HVH,EOQ,NM34,OWNK,0.41,permitted
+CM DRE,t WHI,FSI,ZZ33,PIEI,0.02,permitted
+OT GUF,b ZCR,UUT,NX66,UCUA,0.49,permitted
+BA HRE,n GIZ,JOG,DW96,PCKT,0.0,permitted
+JW QWS,e NTF,PUG,ZO22,HFYA,0.98,permitted
+partner,normal,luxe,a1,off,0.1,permitted
+SR DQC,b HTS,PEQ,JL76,TFNO,0.17,permitted
+CV XEP,m XVY,ABW,BU42,OYEP,0.11,permitted
+police,vip,luxe,a2,off,0.95,permitted
+HU GEU,z USV,FBH,YU64,JPJV,0.13,permitted
+SU JPY,s KTZ,RFY,DT93,FTAI,0.53,permitted
+HT HDS,e MHE,SRQ,WI35,NFFG,0.51,permitted
+SV UDI,c FIY,EHQ,CE19,KSQT,0.85,permitted
+QK BJP,o UHO,AHB,ES93,KGFV,0.05,permitted
+partner,blacklisted,normal,a2,off,0.23,denied
+partner,vip,luxe,a2,off,0.16,permitted
+caraccess,normal,luxe,a1,off,0.82,permitted
+GJ BTS,v DBM,ZVY,OG12,VXXJ,0.36,permitted
+ZD ZHO,h HDO,XJA,BZ25,FYLZ,0.04,permitted
+TV GXH,v FSH,IIU,LF68,JDJB,0.99,permitted
+RD QEX,i HZP,VXJ,RY27,EWMZ,0.67,permitted
+police,normal,normal,a2,off,0.44,permitted
+TK MEF,e RKN,GVA,AV19,LTYL,0.65,permitted
+MF ZKO,p EOO,AEQ,CD24,XIXY,0.67,permitted
+police,normal,luxe,a3,peak,0.4,permitted
+VP TCF,f CDP,MVF,TZ01,BWPP,0.05,permitted
+DX QLD,y WWR,HVP,NE59,MURH,0.16,permitted
+JB ILO,l TAH,ZAI,AS80,DHVX,0.42,permitted
+HP GIK,y BMQ,YKQ,RD03,CTTY,0.83,denied
+PN INR,t HTM,WRN,WU60,ICJX,0.18,permitted
+LC MBL,q HWM,DAG,BM70,HGDN,0.1,permitted
+VY WQN,i QLS,OPX,RG13,SMIF,0.24,denied
+others,normal,luxe,a3,off,0.78,permitted
+TN WEG,s EFF,OMJ,YA75,CFRZ,0.81,permitted
+AV WIF,c KVO,CGE,QS95,WKZB,0.14,permitted
+EN LVH,e DEM,VZF,UJ02,VZYY,0.31,permitted
+DD KUH,b OND,ZJL,TN42,SQRT,0.07,permitted
+MR UMP,a ZTN,NPP,UY42,OULK,0.73,permitted
+YH UKD,r JMR,BCE,QV15,PBVS,0.66,permitted
+police,blacklisted,luxe,a1,off,0.82,denied
+YH QCR,j DTZ,OSZ,FW49,SCSE,0.29,permitted
+WM SZA,j KKB,QTW,ZH44,MJMW,0.76,permitted
+OE MWC,n XBB,SVC,OC42,WYIU,0.67,permitted
+partner,blacklisted,normal,a2,peak,0.45,denied
+police,vip,normal,a3,peak,0.64,permitted
+PS NBG,o SAF,CUB,CY08,WYID,0.27,permitted
+WE IMP,i DCD,QPY,DY97,QGAF,0.38,permitted
+IP MOP,e CYN,AVK,PH76,FSYL,0.92,permitted
+AD UKG,e HLN,BGZ,HY94,SJWY,0.3,denied
+PJ YPY,h PSO,BCS,WD78,RZPB,0.78,permitted
+PI RJS,p QGQ,NOL,XO56,ZFZG,0.1,permitted
+CR NYK,c NSX,HWE,AE52,PHMB,0.5,permitted
+HT OAH,m UUJ,HVR,MX45,VEDS,0.05,denied
+police,blacklisted,luxe,a1,peak,0.77,denied
+QV XHQ,x RRJ,UEV,DM27,FTVC,0.71,permitted
+CA TWA,y FWS,OBG,QF62,FOXM,0.25,permitted
+ZS MWK,w RKX,DVA,OX39,TBSP,0.22,permitted
+SA WIE,v HZQ,RGZ,VO72,FGWI,0.01,permitted
+DD RLT,w OZU,YCY,ZC23,JAOH,0.2,denied
+RY PNX,w AHB,LYZ,WA34,QYWA,0.64,permitted
+OP PYM,e SWI,QPP,BC69,JOQN,0.44,permitted
+caraccess,normal,luxe,a3,off,0.86,permitted
+partner,blacklisted,luxe,a2,peak,0.24,denied
+OZ YLF,r MLZ,KHM,UO76,JOPC,0.19,permitted
+HU ISU,h WQS,FBX,LQ87,PIFL,0.84,permitted
+NS QBX,u SQZ,KJJ,EN34,GDZV,0.45,permitted
+police,normal,normal,a3,peak,0.47,permitted
+TI GJG,r HZA,OAX,DT21,NWCG,0.96,permitted
+LX OME,p YBD,OBT,QW47,INLC,0.59,permitted
+KM CIT,o YSR,ABU,MD98,DBIW,0.66,permitted
+LY TGZ,e XGC,CBT,RP42,ZBJM,0.28,denied
+OQ TLB,o YTM,UCC,SR00,SZNM,0.18,permitted
+RV UWY,a MAR,POD,YA66,ZDDW,0.57,permitted
+IV DSN,x GYA,HFQ,OZ96,HFGX,0.33,permitted
+II GIS,d VMP,LLZ,YH61,AVSV,0.42,denied
+WN UNV,a POO,LSF,VT71,GUUU,0.88,permitted
+EF RNI,s KTP,VOS,FJ87,BLCV,0.16,permitted
+AP IAI,o YVI,RPT,UI56,EEVI,0.18,permitted
+XH YWP,e HNM,OSK,ZU33,RFRT,0.57,permitted
+OZ BTJ,j YHT,DTY,WL22,IMFX,0.62,permitted
+CP GYG,w LWS,JFU,VH50,NKOW,0.39,permitted
+police,vip,normal,a2,off,0.65,permitted
+QJ HSK,d NXP,HZE,TY44,GJUR,0.67,permitted
+FM MCN,v HSZ,ORT,TI21,ZJWV,0.84,permitted
+UJ TPZ,s VNN,ALI,XC17,HMKQ,0.24,permitted
+IN MDG,u VJG,JLQ,WZ73,UFMA,0.13,permitted
+VF HWZ,r YZJ,SGJ,MW89,HQXN,0.36,denied
+EB WGA,t TYK,CUN,ME99,VTQQ,0.99,permitted
+LS UTZ,j TGS,STV,GD97,JCOM,0.75,permitted
+XO YLC,x WXK,RSF,DO14,MFDS,0.84,permitted
+others,vip,luxe,a1,off,0.83,permitted
+PV CYN,v JXM,CKC,QJ95,SZRR,0.84,permitted
+QJ OMX,q PQP,OWT,FD52,FSEL,0.1,denied
+VT JAU,v IKL,LZW,JF56,EYCZ,0.89,permitted
+DH QQU,u OVV,EWD,ME64,MHRY,0.93,permitted
+HE RIY,h FNV,LMA,RK61,KDVY,0.95,permitted
+caraccess,blacklisted,normal,a2,off,0.39,denied
+DL YMF,v KMS,TUE,QE37,ZPOW,0.74,denied
+CU SKW,a UTM,AHF,NE95,WVOD,0.93,permitted
+partner,vip,luxe,a1,off,0.81,permitted
+ST AKT,p OVT,SJW,UY85,NIKG,0.73,permitted
+ZP RKZ,u BAB,SMR,UN06,WYZD,0.06,permitted
+YQ INX,q NMN,CFS,EA49,OLPE,0.59,permitted
+YN TPM,k PML,PFL,VY10,ZQTD,0.76,permitted
+YP UVP,o YSM,YWE,PD67,DNLD,0.41,permitted
+AR TWR,p MXI,MWO,PC09,WFWP,0.92,permitted
+YF FSI,d XCL,NOK,DN10,MIMW,0.04,permitted
+QO NRF,y SPZ,REZ,OC75,USUS,0.45,permitted
+police,normal,normal,a2,peak,0.05,permitted
+XB UYU,e FKV,TDC,TM05,GCHE,0.8,permitted
+partner,blacklisted,normal,a1,peak,0.24,denied
+police,normal,normal,a3,off,0.63,denied
+YC YYD,g LJH,ISY,FF78,ZKVQ,0.96,denied
+RQ NSA,f JAV,RPK,SI95,KVOH,0.09,permitted
+QJ DOY,m MKI,AFB,RO77,ZFHX,0.74,permitted
+WF IWV,l IQF,EVT,JW35,WVRS,0.41,permitted
+KO BFU,s MJP,DCR,QO35,RUUI,0.8,permitted
+OZ JXX,q OGP,KMC,MB17,VHBK,0.0,permitted
+SF JOY,i PQH,SZD,SE42,AKXG,0.02,denied
+JC ZPG,e NBL,CTR,NJ11,KAED,0.61,permitted
+BE NJE,x YKM,MGE,CZ60,RRGC,0.38,permitted
+XN DWH,o OKY,QNH,XI51,QGVX,0.03,permitted
+QT PCR,k OIO,HYN,YX20,LFXD,0.08,permitted
+PI OFK,y HSU,LWP,OP25,HBSG,0.89,permitted
+LN CGA,m DJT,YTO,IS78,KDCP,0.78,permitted
+NQ NQX,w HBX,JWI,HL03,IVPR,0.36,denied
+KT HNF,n IUU,JKK,WK58,DLHO,0.67,permitted
+HF SYK,s UHW,RIH,DR84,QZQI,0.45,permitted
+AT BVC,o YJJ,TLR,BQ45,OVTD,0.47,permitted
+EC TTS,x XTQ,RCK,PF91,EZGJ,0.41,permitted
+GY IQG,o YIA,WID,QT90,ULBN,0.37,permitted
+IO XIS,u NMC,VJV,LC25,SDUK,0.29,permitted
+others,normal,normal,a2,peak,0.08,denied
+WI NGC,y ULK,QBQ,GB06,XCJF,0.43,permitted
+MQ IUL,g RXC,VFD,FD27,MHDP,0.67,permitted
+partner,normal,luxe,a2,peak,0.89,permitted
+WC ZEC,q VNY,XIE,CQ91,DXPW,0.53,permitted
+DK NKY,k DGE,JWN,NH34,ALIK,0.78,permitted
+QG BAD,h WJN,LPT,MX69,QQIF,0.62,permitted
+others,normal,normal,a3,peak,0.19,permitted
+GV UNG,z SCL,PDQ,QR07,OCKH,0.91,permitted
+GK REO,o MHE,QQM,TM21,UBZF,0.95,permitted
+NH JIB,u LSC,QYM,IC35,XREY,0.85,permitted
+NL KUC,v BXW,QHT,VD80,ALWW,0.13,permitted
+SD JFN,x EYU,ERB,BJ50,LYTJ,0.99,permitted
+RW HLY,b RGT,PFC,BK44,JJOU,0.78,permitted
+TK ATZ,k AFU,ZJW,TP96,FOYS,0.21,permitted
+RR NDE,h NDE,SKM,BQ52,WIWT,0.8,permitted
+JC KPL,d BTQ,OSZ,HP05,CPZZ,0.15,permitted
+PA HGV,g ECM,SRJ,GA00,LNIN,0.37,permitted
+QO MTE,v GBR,NYL,IL33,GNIV,0.83,permitted
+XU GUN,x GOH,UON,KJ02,ZGQS,0.53,denied
+WB ZEC,p ODX,QAQ,DQ10,SVRH,0.32,denied
+AK LHC,o MBF,KNZ,ZX21,TCZS,0.53,permitted
+AC QIW,o UYX,PMT,VG54,GDBA,0.18,permitted
+ID BSY,n VGG,GJH,ZH31,DRTM,0.76,permitted
+OU HIT,h RFI,AER,LI46,CHPN,0.98,denied
+SM EUR,c BZK,GPE,CS84,CKIQ,0.13,permitted
+others,blacklisted,luxe,a1,off,0.59,denied
+WU CYJ,j MJH,JZN,QZ96,GQUP,0.34,permitted
+QN GEY,j QFV,PUG,XD64,CZRB,0.28,permitted
+RO RLO,j FZW,KVJ,IV95,IFVL,0.54,permitted
+PZ WIG,n NLT,DHT,ID43,OQEW,0.41,permitted
+caraccess,blacklisted,luxe,a1,peak,0.8,denied
+IO ROS,u UWK,MZR,BA75,BSGA,0.29,permitted
+HT HMS,y TCN,SNF,NY38,MEDB,0.07,permitted
+OT KAQ,b FWD,DMS,LL39,YXKY,0.45,permitted
+DF HVN,k JAI,LKX,CC51,XVZI,0.0,permitted
+QK KXE,g MTN,XUW,XM71,PUNH,0.98,permitted
+IF CTP,y AEZ,SHT,MF15,MEME,0.56,permitted
+XS BVB,d URI,ATH,MK87,TVXS,0.67,permitted
+BL UKG,o MMB,WBE,SJ66,GVGU,0.28,permitted
+RY VHK,k JZP,BHG,DN53,XKKY,0.09,denied
+RA YZH,c JKM,AJN,CF67,QTKF,0.55,permitted
+PE POY,z BWH,YBL,EW07,VWFW,0.99,permitted
+BG RBS,l EXG,PXV,UM85,QCNP,0.64,permitted
+KC HYE,s CJE,QRK,TJ26,SEBT,0.75,permitted
+police,vip,normal,a1,peak,0.26,permitted
+SA VTB,q XWC,EUX,DK84,CXRC,0.2,permitted
+OB JNW,z VJV,JDW,BL48,WITJ,0.01,permitted
+LI NWU,q KNF,AHN,PQ04,JXMC,0.07,denied
+CR NZQ,x JCG,EEE,DQ91,ORDT,0.41,denied
+EP KKQ,g QGL,JCN,YP99,WPPS,0.64,permitted
+EW PSN,y ZSL,ZGQ,OM81,SIKE,0.78,permitted
+IZ TFO,o VKJ,MIQ,HP03,DNXT,0.53,permitted
+UZ HLA,l AGJ,ULW,LV17,WHIS,0.68,permitted
+WT PVV,c BLI,BVK,SE17,IZWW,0.17,permitted
+BU TST,r MZC,PVQ,QB81,RCSF,0.02,permitted
+RT DOY,o WJK,URS,YF78,CAJK,0.84,permitted
+TU WVD,p EZG,MGQ,ZN76,FOPR,0.88,permitted
+UU PND,d YHP,XEU,QF74,SOBY,0.8,permitted
+VT YGC,y XEQ,IDP,TW73,SHXB,0.32,permitted
+police,vip,normal,a2,peak,0.02,permitted
+JT BIL,p IBD,VYH,AZ12,CYNR,0.78,permitted
+NK FMY,r YOO,XND,LC11,MWOJ,0.05,permitted
+WR OBR,y ENE,PGE,KO50,JODE,0.49,permitted
+AU QTJ,f UNJ,VAY,GE94,ABWI,0.41,permitted
+JY QTB,l UHM,FWC,BR44,WOOK,0.52,permitted
+RO MSI,r GGZ,RXL,RR60,QXVP,0.7,denied
+FK YQJ,y HDH,NPI,FA53,KINI,0.71,permitted
+VA SVN,w PGW,QII,VR01,HZGB,0.2,permitted
+EO FHA,b ANT,TUW,IL20,FMXA,0.78,denied
+others,normal,normal,a2,off,0.57,permitted
+police,normal,normal,a1,peak,0.17,permitted
+LE QWZ,a NIC,WDH,ZD07,RETY,0.06,permitted
+BP KVJ,c MSU,OLR,OP45,NEWM,0.62,denied
+others,normal,luxe,a1,peak,0.42,denied
+HU NDW,q KPP,UON,BD41,BGDE,0.77,permitted
+IX PKJ,h AWW,CHI,BZ14,EYYZ,0.86,permitted
+caraccess,normal,luxe,a1,peak,0.22,permitted
+KY VGH,x PJV,XYH,YR88,DGPN,0.9,permitted
+AG KCJ,g MKO,FMX,MC37,CXSV,0.87,permitted
+UM MDP,z CVH,RSJ,IW01,IYEF,0.98,permitted
+UC NOR,l IRX,VAU,AA57,BIQP,0.16,permitted
+IO HQA,i XET,CWG,BJ33,SXSV,0.2,denied
+CA CGH,h WZD,AUL,IV03,BJLO,0.36,permitted
+YM QAU,r ZFO,VQL,JH60,BOLN,0.01,permitted
+others,blacklisted,luxe,a2,peak,0.06,denied
+LI FSF,m MSN,CNS,MD69,GUKG,0.33,permitted
+partner,normal,normal,a3,off,0.21,denied
+DU INW,s NQK,SPR,FZ48,OQJI,0.03,permitted
+YS KLF,t SBU,JPB,LL85,ENNW,0.75,denied
+caraccess,blacklisted,normal,a3,off,0.87,denied
+GK EZF,q YLK,TYI,UF69,EJPZ,0.06,permitted
+FW SXS,h FAA,TRP,UH34,UNUM,0.1,permitted
+caraccess,vip,luxe,a2,peak,0.6,denied
+BA BQS,e ZVY,DMM,PN38,INHD,0.82,permitted
+CI IWV,m OBX,UHA,ZH77,EKYE,0.38,permitted
+SH IXL,u MWR,QRF,XP19,BFYM,0.46,permitted
+YB HTG,a MJI,GUS,TE13,BLFZ,0.19,permitted
+GG ITC,v QOG,YJE,MB46,DAML,0.47,permitted
+EH KOW,s AXN,DZC,EB88,GWUD,0.62,permitted
+police,blacklisted,normal,a2,off,0.17,denied
+HS WYN,v AGA,SKL,HT16,DJZO,0.35,permitted
+QB HTU,k UFZ,EJY,HS83,MSWT,0.56,permitted
+VJ ZEJ,z MUG,PXO,KW79,QWKE,0.13,permitted
+ZR YRF,x OKM,KKI,PQ82,LQYO,0.42,permitted
+JZ ZRI,e AVT,MAA,UY99,LWWO,0.44,permitted
+HZ WAE,h QAP,YOV,AM15,JYXI,0.45,permitted
+QS LVR,s DTO,JJX,XP08,PHTS,0.75,permitted
+IR LTS,l UQS,HPZ,OM20,IVQG,0.95,permitted
+police,normal,normal,a1,off,0.94,permitted
+QW THZ,z GAK,ACE,DM06,LPGT,0.76,permitted
+BA MTA,o OBB,OFE,YO25,MQLT,0.22,permitted
+YZ GXJ,z SCK,VRD,TN62,ZRAB,0.34,permitted
+BV MJX,k SLW,FRZ,FW89,EKUC,0.4,permitted
+EF FYF,j NIG,WWE,WJ77,AJKP,0.97,permitted
+RT QHP,m MWQ,ZAW,OU20,WGGB,0.62,permitted
+caraccess,blacklisted,normal,a2,peak,0.23,denied
+BJ ERO,k AYC,VKM,MG18,HWKJ,0.95,permitted
+EW ZOT,q RQG,PNZ,HU27,IRJH,0.62,permitted
+police,normal,luxe,a1,off,0.3,permitted
+QO SLY,m VTZ,ZMQ,GC22,PLLW,0.97,permitted
+ZL WDN,f PDB,SCT,ZF51,YZCH,0.94,permitted
+SK XRZ,j KCN,NEU,UV81,YBFB,0.9,permitted
+WP ULS,a UGU,DSP,TA22,XYZX,0.2,permitted
+partner,normal,normal,a2,peak,0.94,permitted
+NB AYE,d CDJ,SEA,NC06,ZCOF,0.97,permitted
+FO VXQ,d WZS,RSU,AC88,XRAV,0.76,permitted
+IH OGK,p ZZA,EFJ,DM16,FLNB,0.51,permitted
+PZ VUE,a HPF,ZBL,LR10,IEZZ,0.4,permitted
+partner,normal,normal,a3,peak,0.93,permitted
+TZ NXF,g RVG,QEH,DA13,SDVK,0.59,permitted
+BV BXZ,m QIX,XYC,TF48,JYQF,0.11,permitted
