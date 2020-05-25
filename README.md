@@ -4,6 +4,12 @@ The IoT is growing by leaps and bounds, thus creating this large, smart and auto
 
 ## Car booking portal
 
+The interface on which a client can book a car. It contains a catalog of available cars, a machine learning engine to extract text (mainly ID number) from ID card as well as the other building blocs responsible for the checkout.
+
+* _HTML, CSS, JS, JQUERY, PHP, MYSQL, Python_
+
+![Car booking portal](./images/portal.JPG)
+
 ## Extract text from image
 
 ## Data generation
