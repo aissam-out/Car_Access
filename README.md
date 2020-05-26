@@ -12,6 +12,10 @@ The interface on which a client can book a car. It contains a catalog of availab
 
 ## Extract text from image
 
+After the user scan his ID card, this API allow us to extract the ID number from it.
+
+* _OPENCV, PYTESSERACT, FLASK_
+
 ## Data generation
 
 ## Policy Information Point
