@@ -18,6 +18,16 @@ After the user scan his ID card, this API allow us to extract the ID number from
 
 ## Data generation
 
+- Generate _empower_ dataset : mapping subjects to roles
+
+- Generate _use_ dataset : mapping objects to views
+
+- Generate _pap_ dataset : mapping (org,role,view,activity,context) to (decision, proba)
+
++ Two scripts _consider_ and _checkContext_ : to get the abstract entities for actions and contexts respectiveley 
+
+* _NUMPY, PANDAS, DATETIME, ITERTOOLS, SKLEARN_
+
 ## Policy Information Point
 
 ## Policy Administation Point
