@@ -6,7 +6,7 @@ The IoT is growing by leaps and bounds, thus creating this large, smart and auto
 
 The interface on which a client can book a car. It contains a catalog of available cars, a machine learning engine to extract text (mainly ID number) from ID card as well as the other building blocs responsible for the checkout.
 
-* _HTML, CSS, JS, JQUERY, PHP, MYSQL, PYTHON_
+> _HTML, CSS, JS, JQUERY, PHP, MYSQL, PYTHON_
 
 ![Car booking portal](./images/portal.JPG)
 
@@ -14,7 +14,7 @@ The interface on which a client can book a car. It contains a catalog of availab
 
 After the user scan his ID card, this API allow us to extract the ID number from it.
 
-* _OPENCV, PYTESSERACT, FLASK_
+> _OPENCV, PYTESSERACT, FLASK_
 
 ## Data generation
 
@@ -24,7 +24,7 @@ After the user scan his ID card, this API allow us to extract the ID number from
 
 - Generate _"pap"_ dataset : mapping (org,role,view,activity,context) to (decision, proba)
 
-+ Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for actions and contexts respectiveley 
+- Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for actions and contexts respectiveley 
 
 > _NUMPY, PANDAS, DATETIME, ITERTOOLS, SKLEARN_
 
