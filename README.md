@@ -22,7 +22,7 @@ After the user scan his ID card, this API allow us to extract the ID number from
 
 - Generate _"use"_ dataset : mapping **objects** to **views**
 
-- Generate _"pap"_ dataset : mapping **(org,role,view,activity,context)** to **(decision, proba)**
+- Generate _"PAP"_ dataset : mapping **(org, role, view, activity, context)** to **(decision, proba)**
 
 - Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for **actions** and **contexts** respectively 
 
