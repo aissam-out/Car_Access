@@ -32,7 +32,7 @@ After the user scan his ID card, this API allow us to extract the ID number from
 
 Policy information point (a.k.a. PIP) is the system entity that acts as a source of attribute values. It contains the dataset/rules matching each concreate entity -subject, object, action, context- with its abstract category -role, view, activity, Context (respectively)-
 
-On top of these datasets/rules, our PIP provides a Flask based web framework able to receive _matching_ requests from to PDP using JSON format. 
+On top of these datasets/rules, our PIP provides a Flask based web framework able to receive _matching_ requests from the PDP using JSON format. 
 
 ## Policy Administation Point
 
