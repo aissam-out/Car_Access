@@ -30,6 +30,8 @@ After the user scan his ID card, this API allow us to extract the ID number from
 
 ## Policy Information Point
 
+Policy information point (a.k.a. PIP) is the system entity that acts as a source of attribute values. It contains the dataset/rules matching each concreate entity -subject, object, action, context- with its abstract category -role, view, activity, Context (respectively)-
+
 ## Policy Administation Point
 
 ## Policy Decision Point
