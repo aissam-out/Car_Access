@@ -68,7 +68,7 @@ This fonctionnality consists of three features :
 
 * _Differential Privacy_ : Enable organizations to collaborate while preserving their privacy using a random response implementation of DF.
 
-> _GOOGLE COLAB -for visualization-_
+> _GOOGLE COLABORATORY -for visualization-_
 
 ## The overall architecture
 
