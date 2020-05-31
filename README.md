@@ -77,3 +77,6 @@ As a CRA, our organization is mainly composed of selfdriving cars (decomposed in
 ![The building blocks of the implementation](./images/architecture.PNG)
 
 ## Installation requirements
+
+- Web booking portal : 
+> _APACHE, MYSQL_
