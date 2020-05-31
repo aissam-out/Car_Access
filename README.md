@@ -95,3 +95,7 @@ Communication protocol in IoT :
 
 Machine learning :
 > _CATBOOST_
+
+| Web booking portal | Extract text from image | Create python based APIs | Data generation | Communication protocol in IoT | Machine learning |
+|-------|---|---|---|---|
+| _APACHE, MYSQL_ | _OPENCV, PYTESSERACT_ | _FLASK_ | _NUMPY, PANDAS_ | _MQTT, PAHO_ | _CATBOOST_ |
