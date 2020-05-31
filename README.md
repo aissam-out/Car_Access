@@ -78,5 +78,10 @@ As a CRA, our organization is mainly composed of selfdriving cars (decomposed in
 
 ## Installation requirements
 
-- Web booking portal : 
+Web booking portal : 
 > _APACHE, MYSQL_
+
+Extract text from image : 
+> _OPENCV, PYTESSERACT_
+
+
