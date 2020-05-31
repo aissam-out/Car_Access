@@ -84,4 +84,14 @@ Web booking portal :
 Extract text from image : 
 > _OPENCV, PYTESSERACT_
 
+Create python based APIs : 
+> _FLASK_
 
+Data generation :
+> _NUMPY, PANDAS_
+
+Communication protocol in IoT : 
+> _MQTT, PAHO_
+
+Machine learning :
+> _CATBOOST_
