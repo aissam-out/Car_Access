@@ -52,6 +52,12 @@ The policy administration point (PAP) is the interface or tool that enables you 
 
 ## Policy Decision Point
 
+The policy decision point (PDP) is the component of access control system that decides whether or not to authorize a user’s request, based on available information from the PIP and security policies from the PAP.
+
+This implementation provides an extra feature : In case the received request contains fields the system have never dealt with, the PDP predicts the answer based on machine learning algorithms ([Catboost](https://catboost.ai/) in our case).
+
+> _CATBOOST_
+
 ## Learning
 
 ## The overall architecture
