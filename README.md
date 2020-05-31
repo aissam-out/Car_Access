@@ -60,6 +60,16 @@ This implementation provides an extra feature : In case the received request con
 
 ## Learning
 
+This fonctionnality consists of three features : 
+
+* _Dynamicity_ : The probabilities of how the safe experience is (or will be) are statically stored in the PAP. This feature offers the possibilty to update them based on previous experiences.
+
+* _Exploration_ : This property consits of exploring extra new features to encrease the accuracy of future predictions.
+
+* _Differential Privacy_ : Enable organizations to collaborate while preserving their privacy using a random response implementation of DF.
+
+> _GOOGLE COLAB -for visualization-_
+
 ## The overall architecture
 
 As a CRA, our organization is mainly composed of selfdriving cars (decomposed into two views: luxury and normal cars); its customers are generally normal clients, VIP clients or blacklisted ones (which makes respectively three roles: NC, VIP, BC); regarding the activities it is more realistic to categorize them by rental period (a1: 1 day, a2: between 1 and 3 days, and a3: more than 3 days). Finally, the context represents the time of the year during which the request is made: is it a peak season (peak) like summer for example, or off season (off).
