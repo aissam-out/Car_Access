@@ -42,9 +42,13 @@ Policy information point (a.k.a. PIP) is the system entity that acts as a source
 
 On top of these datasets/rules, our PIP provides a [Flask](https://flask.palletsprojects.com) based web framework able to receive _matching_ requests from the PDP using JSON format.
 
-> _FLASK_
+> _FLASK, PANDAS_
 
 ## Policy Administation Point
+
+The policy administration point (PAP) is the interface or tool that enables you to create, edit and store digital policies or rules.
+
+> _FLASK, PANDAS_
 
 ## Policy Decision Point
 
