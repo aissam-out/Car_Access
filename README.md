@@ -76,6 +76,10 @@ As a CRA, our organization is mainly composed of selfdriving cars (decomposed in
 
 ![The building blocks of the implementation](./images/architecture.PNG)
 
+An overview of the AC decision making process based on this algorithm is portrayed in the following figure :  
+
+![Decision making process](./images/request_flow.png)
+
 ## Installation requirements
 
 | Web booking portal | Extract text from image | Create python based APIs | Data generation | Communication protocol in IoT | Machine learning |
