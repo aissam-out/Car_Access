@@ -78,24 +78,6 @@ As a CRA, our organization is mainly composed of selfdriving cars (decomposed in
 
 ## Installation requirements
 
-Web booking portal : 
-> _APACHE, MYSQL_
-
-Extract text from image : 
-> _OPENCV, PYTESSERACT_
-
-Create python based APIs : 
-> _FLASK_
-
-Data generation :
-> _NUMPY, PANDAS_
-
-Communication protocol in IoT : 
-> _MQTT, PAHO_
-
-Machine learning :
-> _CATBOOST_
-
 | Web booking portal | Extract text from image | Create python based APIs | Data generation | Communication protocol in IoT | Machine learning |
 |:-------:|:---:|:---:|:---:|:---:|:---:|
-| > _APACHE, MYSQL_ | _OPENCV, PYTESSERACT_ | _FLASK_ | _NUMPY, PANDAS_ | _MQTT, PAHO_ | _CATBOOST_ |
+| _APACHE, MYSQL_ | _OPENCV, PYTESSERACT_ | _FLASK_ | _NUMPY, PANDAS_ | _MQTT, PAHO_ | _CATBOOST_ |
