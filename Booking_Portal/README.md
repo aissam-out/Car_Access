@@ -8,4 +8,4 @@ The interface on which a client can book a car. It contains a catalog of availab
 
 Hereafter the relationships between all the webpages and scripts composing this portal :
 
-![pages flow](../images/booking.png)
+![pages flow](../images/booking_flow.png)
