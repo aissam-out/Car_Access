@@ -12,6 +12,6 @@ Hereafter the relationships between all the webpages and scripts composing this 
 
 ### Extract text from image
 
-After the user scan his ID card (in the upload.html page), an API (image extractor) allow us to extract the ID number from it.
+After the user scan his ID card _(upload.html)_, an API _(image extractor)_ allow us to extract the ID number from it.
 
 > _OPENCV, PYTESSERACT, FLASK_
