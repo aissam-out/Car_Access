@@ -6,6 +6,6 @@ The interface on which a client can book a car. It contains a catalog of availab
 
 ![Car booking portal](../images/portal.JPG)
 
-Hereafter the relationships between all the webpages and scripts :
+Hereafter the relationships between all the webpages and scripts composing this portal :
 
 ![pages flow](../images/booking.png)
