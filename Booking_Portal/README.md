@@ -9,3 +9,9 @@ The interface on which a client can book a car. It contains a catalog of availab
 Hereafter the relationships between all the webpages and scripts composing this portal :
 
 ![pages flow](../images/booking_flow.png)
+
+### Extract text from image
+
+After the user scan his ID card (in the upload.html page), an API (image extractor) allow us to extract the ID number from it.
+
+> _OPENCV, PYTESSERACT, FLASK_
