@@ -4,7 +4,7 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 
 - Generate _"empower"_ dataset : mapping **subjects** to **roles**
 
-| _Organization_ | _Card ID_ | _VIP badge_ | _Role_ |
+| Organization | Card ID | VIP badge | Role |
 |:-------:|:---:|:---:|:---:|
 
 - Generate _"use"_ dataset : mapping **objects** to **views**
@@ -17,7 +17,7 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 | Organization | Role | View | Activity | Context | Probability | Decision |
 |:-------:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-- Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for **actions** and **contexts** respectively 
+- Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for **actions** and **contexts** respectively are directlty stored in the PIP [see this link](../PIP/utils.py)
 
 > _NUMPY, PANDAS, DATETIME, ITERTOOLS, SKLEARN_
 
