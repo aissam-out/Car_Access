@@ -15,6 +15,8 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 # 
 <h5>
 <a name="myfootnote1">1</a>: Policy Information Point
+  
 <a name="myfootnote2">2</a>: Policy Administration Point
+
 <a name="myfootnote3">3</a>: Access Control
 </h5>
