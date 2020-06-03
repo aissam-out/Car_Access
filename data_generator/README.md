@@ -13,8 +13,8 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 > _NUMPY, PANDAS, DATETIME, ITERTOOLS, SKLEARN_
 
 # 
-<h5><a name="myfootnote1">1</a>: Policy Information Point
-  
-<a name="myfootnote2">2</a>: Policy Administration Point
-
-<a name="myfootnote3">3</a>: Access Control</h5>
+<h5>
+<a name="myfootnote1">1</a>: Policy Information Point<br>
+<a name="myfootnote2">2</a>: Policy Administration Point<br>
+<a name="myfootnote3">3</a>: Access Control
+</h5>
