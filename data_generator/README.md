@@ -4,10 +4,13 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 
 - Generate _"empower"_ dataset : mapping **subjects** to **roles**
 
-&nbsp;&nbsp; | Organization | Card ID | VIP badge | Role |
+| Organization | Card ID | VIP badge | Role |
 |:-------:|:---:|:---:|:---:|
 
 - Generate _"use"_ dataset : mapping **objects** to **views**
+
+| Organization | plate ID | Company | Model | View |
+|:-------:|:---:|:---:|:---:|:---:|
 
 - Generate _"PAP"_ dataset : mapping **(org, role, view, activity, context)** to **(decision, proba)**
 
