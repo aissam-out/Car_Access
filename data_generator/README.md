@@ -1,6 +1,6 @@
 # Data Generator
 
-Generate PIP and PAP datasets to be used in the decision making as well as in the training processes.
+Generate PIP and PAP datasets to be used in the AC decision making as well as in the training processes.
 
 - Generate _"empower"_ dataset : mapping **subjects** to **roles**
 
