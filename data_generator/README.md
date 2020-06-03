@@ -1,6 +1,6 @@
 # Data Generator
 
-Generate PIP and PAP datasets to be used in the AC<sup>[1](#myfootnote1)</sup> decision making as well as in the training processes.
+Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> datasets to be used in the AC<sup>[3](#myfootnote3)</sup> decision making as well as in the training processes.
 
 - Generate _"empower"_ dataset : mapping **subjects** to **roles**
 
@@ -13,5 +13,11 @@ Generate PIP and PAP datasets to be used in the AC<sup>[1](#myfootnote1)</sup> d
 > _NUMPY, PANDAS, DATETIME, ITERTOOLS, SKLEARN_
 
 # 
+<h3>
+<a name="myfootnote1">1</a>: Policy Information Point
 
-<a name="myfootnote1">1</a>: Access Control
+<a name="myfootnote2">2</a>: Policy Administration Point
+
+<a name="myfootnote3">3</a>: Access Control
+
+</h3>
