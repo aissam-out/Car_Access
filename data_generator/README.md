@@ -4,7 +4,7 @@ Generate PIP<sup>[1](#myfootnote1)</sup> and PAP<sup>[2](#myfootnote2)</sup> dat
 
 - Generate _"empower"_ dataset : mapping **subjects** to **roles**
 
-| Organization | Card ID | VIP badge | Role |
+| _Organization_ | _Card ID_ | _VIP badge_ | _Role_ |
 |:-------:|:---:|:---:|:---:|
 
 - Generate _"use"_ dataset : mapping **objects** to **views**
