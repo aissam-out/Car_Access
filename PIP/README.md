@@ -19,4 +19,7 @@ On top of these datasets/rules, our PIP provides a [Flask](https://flask.pallets
 
 - The file _request.csv_ is optional : it serves to store the abstract entities after answering a given request 
 
+| Organization | Role | View | Activity | Context |
+|:-------:|:---:|:---:|:---:|:---:|
+
 > _FLASK, PANDAS_
