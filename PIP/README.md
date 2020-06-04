@@ -17,4 +17,6 @@ On top of these datasets/rules, our PIP provides a [Flask](https://flask.pallets
 
 - Two scripts : _"consider"_ and _"checkContext"_ to get the abstract entities for **actions** and **contexts** respectively are directlty stored in the PIP
 
+- The file _request.csv_ is optional : it serves to store the abstract entities after answering a given request 
+
 > _FLASK, PANDAS_
