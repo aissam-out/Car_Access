@@ -6,7 +6,7 @@ This implementation provides an extra feature : In case the received request con
 
 Here is the pseudocode which details how this algorithm works
 
-<img src="../images/pdpseudo.PNG" width="500" height="500">
+<img src="../images/pdpseudo.PNG" width="500" height="350">
 
 > _CATBOOST_
 
