@@ -4,6 +4,10 @@ The policy decision point (a.k.a. PDP) is the component of access control system
 
 This implementation provides an extra feature : In case the received request contains fields the system have never dealt with, the PDP predicts the answer based on machine learning algorithms ([Catboost](https://catboost.ai/) in our case).
 
+Here is the pseudocode which details how this algorithm works
+
+![The building blocks of the implementation](./images/pdpseudo.PNG)
+
 > _CATBOOST_
 
 # 
