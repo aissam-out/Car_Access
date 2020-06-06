@@ -62,7 +62,7 @@ This implementation provides an extra feature : In case the received request con
 
 This fonctionnality consists of three features : 
 
-* _Dynamicity_ : The probabilities of how the safe experience is (or will be) are statically stored in the PAP. This feature offers the possibilty to update them based on previous experiences.
+* _Dynamicity_ : The probabilities of how safe the experience is (or will be) are statically stored in the PAP. This feature offers the possibilty to update them based on previous experiences.
 
 * _Exploration_ : This property consits of exploring extra new features to encrease the accuracy of future predictions.
 
