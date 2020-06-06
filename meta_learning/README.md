@@ -4,7 +4,7 @@
 
 Here is the pseudocode which details how this algorithm works :
 
-<img src="../images/dynamicpseudo.PNG" width="500" height="300">
+<img src="../images/dynamicpseudo.PNG" width="450" height="350">
 
 * _Exploration_ : This property consits of exploring extra new features to encrease the accuracy of future predictions. It is mainly useful when we enable the collaboration aspect, thus learning from other organizations' experiences.
 
@@ -14,6 +14,6 @@ Differential privacy is a system to collect and share aggregate information abou
 
 Here is the pseudocode which details how this algorithm works :
 
-<img src="../images/randompseudo.PNG" width="500" height="300">
+<img src="../images/randompseudo.PNG" width="450" height="350">
 
 > _GOOGLE COLABORATORY -for visualizing results-_
