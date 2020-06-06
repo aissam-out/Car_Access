@@ -1,6 +1,6 @@
 # Learning process
 
-* _Dynamicity_ : The probabilities of how the safe experience is (or will be) are statically stored in the PAP. This feature offers the possibilty to update them based on previous experiences.
+* _Dynamicity_ : The probabilities of how safe the experience is (or will be) are statically stored in the PAP. This feature offers the possibilty to update them based on previous experiences.
 
 Here is the pseudocode which details how this algorithm works :
 
