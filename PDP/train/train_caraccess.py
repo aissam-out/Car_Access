@@ -9,6 +9,7 @@ from train_utils import *
 """## Prepare data"""
 def main_func(data_size = 1):
     db = gen_pap_db()
+    # manual labels of the generated list
     access_list = [0.9, 1.0, 0.8, 0.9, 0.75, 0.8,
                   0.8, 0.8, 0.8, 0.8, 0.72, 0.75,
                   0.4, 0.45, 0.39, 0.4, 0.3, 0.35,
@@ -60,5 +61,5 @@ df_pred = main_func(data_size = 1)
 csv_pred = df_pred.to_csv('csv_predictions.csv', index = False)
 
 
-    # test just one entry (via index)
-    #aggreg_one(xdb, 117)
+# test just one entry (via index)
+#aggreg_one(xdb, 117)
