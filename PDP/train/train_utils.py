@@ -1,11 +1,9 @@
-# import modules
+# import libraries
 import random
 import itertools
 import numpy as np
 import pandas as pd
 from sklearn.utils import shuffle
-
-# Import libraries
 import rstr
 from catboost import CatBoostRegressor
 
@@ -111,6 +109,8 @@ def gen_extended(df, data_size = 1):
   return final
 
 def cat_test(db_test, db, index, catreg):
+  # predict db_test using CatBoostRegressor catreg
+  # index is the index where test dataset begins .. db is the whole dataset
   result = []
   for i in range(index, db.shape[0]):
     test = db_test.loc[i]
@@ -124,6 +124,7 @@ def cat_test(db_test, db, index, catreg):
   return db_output
 
 def aggreg_df(db, index):
+  # this function aggregates the training and the prediction (for a test dataset)
   y = db['proba'][:index]
   X = db.drop('proba',axis=1)
   X = pd.get_dummies(X)
@@ -141,6 +142,7 @@ def aggreg_df(db, index):
   return df_pred
 
 def aggreg_one(db, index):
+  # this function aggregates the training and the prediction (for one entry)
   y = db['proba']
   X = db.drop('proba',axis=1)
   X = pd.get_dummies(db)
