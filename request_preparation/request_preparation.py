@@ -21,7 +21,7 @@ try:
     records = cursor.fetchall()
     print("Total number of rows in requests_db is: ", cursor.rowcount)
 
-    print("\nPrinting each laptop record")
+    print("\nPrinting each record")
     for row in records:
         print("Id = ", row[0])
         print("Car = ", row[1])
@@ -31,6 +31,7 @@ try:
         print("num_days  = ", (datetime.strptime(row[3], "%Y-%m-%d")-datetime.strptime(row[2], "%Y-%m-%d")).days)
         print("Organization  = ", row[5], "\n")
         fields=[row[0], row[5], row[4], row[1], (datetime.strptime(row[3], "%Y-%m-%d")-datetime.strptime(row[2], "%Y-%m-%d")).days, row[2], row[3]]
+        # save fields in request.csv file
         with open(r'request.csv', 'a') as f:
             writer = csv.writer(f)
             writer.writerow(fields)
