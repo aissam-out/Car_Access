@@ -11,7 +11,7 @@ def gen_emp_db(num):
   org_values = ['caraccess', 'police', 'partner', 'others']
   org = np.random.choice(org_values, num, p=[0.2, 0.1, 0.3, 0.4])
 
-  # generate cin
+  # generate cin/ ID number
   cin = [None] * num
   for i in range(num):
     cin[i] = rstr.xeger(r'[A-Z][A-Z]\d\d\d\d')
@@ -63,7 +63,7 @@ def gen_use_db(num):
          }
   df_use = pd.DataFrame(use, columns = ['org', 'plate', 'company', 'mod'])
 
-  # generate model
+  # generate car model
   for i in range(num):
     if (df_use.company[i]=='mercedes'):
       df_use.at[i,'mod'] = np.random.choice(['GLA SUV,normal', 'Mercedes-Maybach,luxe'], p=[0.6, 0.4])
@@ -82,7 +82,7 @@ def gen_use_db(num):
     if (df_use.company[i]=='tesla'):
       df_use.at[i,'mod'] = np.random.choice(['model 3,normal', 'Roadster,luxe'], p=[0.6, 0.4])
 
-  # split model and view colums
+  # split car model and view colums
   df_use[['model','view']] = df_use['mod'].str.split(",",expand=True,)
   df_use.drop('mod', axis=1, inplace=True)
 
