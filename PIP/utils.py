@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 
+# subject -> role
 def empower(org, s):
     # result is a list
     df = pd.read_csv('csv_empower.csv')
@@ -14,6 +15,7 @@ def empower(org, s):
 
     return [org, s, role]
 
+# object -> view
 def use(org, o):
     # result is a list
     df = pd.read_csv('csv_use.csv')
@@ -24,6 +26,7 @@ def use(org, o):
 
     return [org, o, view]
 
+# action -> activity
 def consider(org, a):
     # result is a list
     if (a == 1):
@@ -35,6 +38,7 @@ def consider(org, a):
 
     return result
 
+# start date, end date -> context
 def check_context(start_d, end_d):
     # result is a list
     # format string to date
@@ -54,12 +58,12 @@ def check_context(start_d, end_d):
 
     return result
 
+# get the decision from the pap
 def check_decision(org, role, view, activity, context):
-    # get the decision from the pap
     # get the csv file containing the AC policy
     pap_db = pd.read_csv('csv_pap.csv')
-    # processs the request
-
+    
+    # find the row(s) corresponding to the arguments in the pap_db 
     df = pap_db.loc[(pap_db['org'] == org) &
                     (pap_db['role'] == role) &
                     (pap_db['view'] == view) &
