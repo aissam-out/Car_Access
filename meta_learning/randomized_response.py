@@ -1,11 +1,13 @@
-# Protect the privacy of the collected new features
+'''
+Protect the privacy of the collected new features
+'''
 import numpy as np
 import random
 
 # columns = list(X.columns)
 
 def randomized_reponse(truth, treshold, columns):
-  # pick a random number and tell the truth (treshold*100) percent of the time
+  # the principle is : tell the truth (treshold*100) percent of the time
   if truth in columns:
     rnd = random.uniform(0, 1)
     if (rnd <= treshold):
