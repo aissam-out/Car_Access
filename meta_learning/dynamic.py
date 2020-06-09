@@ -8,14 +8,15 @@ def post_feedback(org, role, view, activity, context, feedback, decision):
   '''
   This function gets the above fields,
   add them as the last row in the extended pap,
-  if there is enough new probabilities, it updates the pap
+  if there is enough (greater thant a fixed threshold) new probabilities, it updates the pap
   '''
+  # open pap and extended_pap datasets
   pap_path = 'csv_pap.csv'
   xap_path = 'csv_xap.csv'
   pap = pd.read_csv(pap_path)
   xap = pd.read_csv(xap_path)
 
-  # get the fields
+  # extract the fields
   fields = [org, role, view, activity, context, feedback, decision]
 
   # add the fields as the last row in the extended pap
@@ -36,10 +37,9 @@ def post_feedback(org, role, view, activity, context, feedback, decision):
     statement2 = (pap['org'] == org) & (pap['role'] == role) & (pap['view'] == view) & (pap['activity'] == activity) & (pap['context'] == context)
     pap.loc[statement2, 'proba'] = round(updated_proba, 2)
     # save pap
-    # save empower S-R
     new_pap = pap.to_csv('pap_updated.csv', index = False)
 
   return [org, role, view, activity, context, round(updated_proba, 2), decision]
 
-#'BV BXZ','m QIX','XYC','TF48','JYQF',0.11
+# example
 post_feedback('BV BXZ','m QIX','XYC','TF48','JYQF',0.19, 'permitted')
