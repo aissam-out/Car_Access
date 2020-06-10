@@ -1,6 +1,6 @@
 # Car_Access
 
-The IoT is growing by leaps and bounds, thus creating this large, smart and autonomous system requiring less and less human intervention. Smart city (SC) was always the case in point that portrays this vision where devices not only interact but depend on (even control) each other. 
+The Internet of Things (a.k.a. IoT) is growing by leaps and bounds, thus creating this large, smart and autonomous system requiring less and less human intervention. Smart city (SC) was always the case in point that portrays this vision where devices not only interact but depend on (even control) each other. This project is an implementation of an IoT-oriented Access Control algorithm applied to a SC case study.
 
 ## Car booking portal
 
