@@ -2,6 +2,8 @@
 
 The Internet of Things (a.k.a. IoT) is growing by leaps and bounds, thus creating this large, smart and autonomous system requiring less and less human intervention. Smart city (SC) was always the case in point that portrays this vision where devices not only interact but depend on (even control) each other. This project is an implementation of an IoT-oriented Access Control algorithm applied to a SC case study.
 
+Further details about the algorithm in the paper : [Machine Learning based Access Control Framework for the Internet of Things](https://thesai.org/Downloads/Volume11No2/Paper_43-Machine_Learning_based_Access_Control_Framework.pdf)
+
 ## Car booking portal
 
 The interface on which a client can book a car. It contains a catalog of available cars, a machine learning engine to extract text (mainly ID number) from ID card as well as the other building blocs responsible for the checkout.
