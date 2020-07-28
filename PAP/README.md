@@ -1,4 +1,4 @@
-# Policy Information Point
+# Policy Administration Point
 
 The policy administration point (a.k.a. PAP) is the interface or tool that enables you to create, edit and store digital policies or rules.
 
